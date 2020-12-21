@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 9081e8a66b4dd27489c5544f14f721b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9082429109045791810
+    second: Laser_0
+  - first:
+      213: -8599512977041186160
+    second: laser_2
+  - first:
+      213: -4876627861783150909
+    second: Laser_1
+  - first:
+      213: 7394846351055212603
+    second: Laser_1
+  - first:
+      213: -3134984308293451589
+    second: Laser_1
+  - first:
+      213: -7086537323571785821
+    second: Laser_1
+  - first:
+      213: -6330152569626864739
+    second: Laser_6
+  - first:
+      213: 7444769785482769600
+    second: Laser_7
+  - first:
+      213: 6696284105954170331
+    second: Laser_8
+  - first:
+      213: 6488650829194282490
+    second: Laser_9
+  - first:
+      213: 7408158033249956994
+    second: Laser_10
+  - first:
+      213: 7618443584406369654
+    second: Laser_11
+  - first:
+      213: 8320944645083979353
+    second: Laser_12
+  - first:
+      213: 7409563813294569585
+    second: Laser_13
+  - first:
+      213: 6987423002858378337
+    second: Laser_14
+  - first:
+      213: 2643995761157989754
+    second: Laser_15
+  - first:
+      213: 1182691393454610654
+    second: Laser_16
+  - first:
+      213: 7777583920123788253
+    second: Laser_17
+  - first:
+      213: 7324084022845963674
+    second: Laser_18
+  - first:
+      213: 9004991356531982800
+    second: Laser_19
+  - first:
+      213: -9170888838096455613
+    second: Laser_20
+  - first:
+      213: 2979028927220038611
+    second: Laser_21
+  - first:
+      213: 4667978505823550865
+    second: Laser_22
+  - first:
+      213: -2565328998847794613
+    second: Laser_23
+  - first:
+      213: -6854869045065669679
+    second: Laser_24
+  - first:
+      213: 6198233948488133742
+    second: Laser_25
+  - first:
+      213: -2124488341547817615
+    second: Laser_26
+  - first:
+      213: -1169113819780293709
+    second: Laser_27
+  - first:
+      213: 4568845248910212608
+    second: Laser_28
+  - first:
+      213: -992474190365627392
+    second: Laser_29
+  - first:
+      213: 46362155424088444
+    second: Laser_30
+  - first:
+      213: -5797543766607257016
+    second: Laser_31
+  - first:
+      213: -9019725373944124205
+    second: Laser_32
+  - first:
+      213: -3985451289447439484
+    second: Laser_33
+  - first:
+      213: 8634773303767803014
+    second: Laser_34
+  - first:
+      213: 1380469286375253814
+    second: Laser_35
+  - first:
+      213: 3354486942304484080
+    second: Laser_36
+  - first:
+      213: -1994277773664149769
+    second: Laser_37
+  - first:
+      213: 9111002751999362661
+    second: Laser_38
+  - first:
+      213: 7625401493453443075
+    second: Laser_39
+  - first:
+      213: -5449235568006337094
+    second: Laser_40
+  - first:
+      213: 6812285089286196919
+    second: Laser_41
+  - first:
+      213: -3808386493147971437
+    second: Laser_42
+  - first:
+      213: 5590552757046659527
+    second: Laser_43
+  - first:
+      213: 6299837318021163356
+    second: Laser_44
+  - first:
+      213: -8298729636767104985
+    second: Laser_45
+  - first:
+      213: -2741044988646370825
+    second: Laser_46
+  - first:
+      213: -8306160511432406885
+    second: Laser_47
+  - first:
+      213: 1856280346085425723
+    second: Laser_48
+  - first:
+      213: -3223862678096281976
+    second: Laser_49
+  - first:
+      213: -7693669153041797635
+    second: Laser_50
+  - first:
+      213: 4942745388571726528
+    second: Laser_51
+  - first:
+      213: 154553870812244218
+    second: Laser_52
+  - first:
+      213: -2800967150276420786
+    second: Laser_53
+  - first:
+      213: 6929788904531073280
+    second: Laser_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Laser_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3643
+        width: 1604
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c875667254b0e70800000000000000
+      internalID: 9082429109045791810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2010
+        width: 1604
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0922912728468a880800000000000000
+      internalID: -8599512977041186160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_3
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2014
+        width: 1596
+        height: 743
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce74a41cccb25cb0800000000000000
+      internalID: -4876627861783150909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 1599
+        height: 1071
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b305d33a395cf9660800000000000000
+      internalID: 7394846351055212603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_5
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 258
+        width: 1601
+        height: 1069
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0ceb7a16c4e74d0800000000000000
+      internalID: -3134984308293451589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_1
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 3643
+        width: 1592
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afc4fca9df87ad90800000000000000
+      internalID: -7086537323571785821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

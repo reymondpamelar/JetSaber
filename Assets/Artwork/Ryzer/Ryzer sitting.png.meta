@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 651754fec5b50b645901ef0bb019f050
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1897522434800906836
+    second: Ryzer sitting_0
+  - first:
+      213: 7763462643667474284
+    second: Ryzer sitting_1
+  - first:
+      213: 5572020812129346169
+    second: Ryzer sitting_2
+  - first:
+      213: -5388588694715058144
+    second: Ryzer sitting_3
+  - first:
+      213: 6958116214832712031
+    second: Ryzer sitting_4
+  - first:
+      213: 7012313153412815416
+    second: Ryzer sitting_5
+  - first:
+      213: 846191353916788436
+    second: Ryzer sitting_6
+  - first:
+      213: -8289918017530055142
+    second: Ryzer sitting_7
+  - first:
+      213: 1079540572085795537
+    second: Ryzer sitting_8
+  - first:
+      213: 959038756877262394
+    second: Ryzer sitting_9
+  - first:
+      213: 8517012905192586596
+    second: Ryzer sitting_10
+  - first:
+      213: -3674216372107927398
+    second: Ryzer sitting_11
+  - first:
+      213: 7013860555939406427
+    second: Ryzer sitting_12
+  - first:
+      213: -7228845100434195961
+    second: Ryzer sitting_13
+  - first:
+      213: -6122702068801702194
+    second: Ryzer sitting_14
+  - first:
+      213: 2276721031638227329
+    second: Ryzer sitting_15
+  - first:
+      213: -3459873072423755370
+    second: Ryzer sitting_16
+  - first:
+      213: 505346279976314106
+    second: Ryzer sitting_17
+  - first:
+      213: 7707016186520747044
+    second: Ryzer sitting_18
+  - first:
+      213: -7887161474255459257
+    second: Ryzer sitting_19
+  - first:
+      213: -7139333933913735061
+    second: Ryzer sitting_20
+  - first:
+      213: 5780556472791833986
+    second: Ryzer sitting_21
+  - first:
+      213: -3846427625397114289
+    second: Ryzer sitting_22
+  - first:
+      213: -4817416475945177141
+    second: Ryzer sitting_23
+  - first:
+      213: -2909436133428997604
+    second: Ryzer sitting_24
+  - first:
+      213: 6231238816968788473
+    second: Ryzer sitting_25
+  - first:
+      213: 2225490426683200455
+    second: Ryzer sitting_26
+  - first:
+      213: -6043776490119516381
+    second: Ryzer sitting_27
+  - first:
+      213: 4125863995875424789
+    second: Ryzer sitting_28
+  - first:
+      213: -2947539233173145300
+    second: Ryzer sitting_29
+  - first:
+      213: -1161006125208132769
+    second: Ryzer sitting_30
+  - first:
+      213: 8443227321394541069
+    second: Ryzer sitting_31
+  - first:
+      213: -5795555348975272764
+    second: Ryzer sitting_32
+  - first:
+      213: 6998993185160208960
+    second: Ryzer sitting_33
+  - first:
+      213: -1182423447975327902
+    second: Ryzer sitting_34
+  - first:
+      213: -5235126105471737529
+    second: Ryzer sitting_35
+  - first:
+      213: -4646536115683181025
+    second: Ryzer sitting_36
+  - first:
+      213: 3278530089463739941
+    second: Ryzer sitting_37
+  - first:
+      213: -1191145998176850591
+    second: Ryzer sitting_38
+  - first:
+      213: -6252589512284308277
+    second: Ryzer sitting_39
+  - first:
+      213: -5314949768453767531
+    second: Ryzer sitting_40
+  - first:
+      213: 6691263954045983505
+    second: Ryzer sitting_41
+  - first:
+      213: 6629554626951326443
+    second: Ryzer sitting_42
+  - first:
+      213: 6641737865762902023
+    second: Ryzer sitting_43
+  - first:
+      213: -4570251823837470335
+    second: Ryzer sitting_44
+  - first:
+      213: 7955702755526233547
+    second: Ryzer sitting_45
+  - first:
+      213: 961783794281242701
+    second: Ryzer sitting_46
+  - first:
+      213: -4902164435194550970
+    second: Ryzer sitting_47
+  - first:
+      213: 6348197758458129669
+    second: Ryzer sitting_48
+  - first:
+      213: -2035086573861504161
+    second: Ryzer sitting_49
+  - first:
+      213: 2982034350882935153
+    second: Ryzer sitting_50
+  - first:
+      213: 8376738475587973650
+    second: Ryzer sitting_51
+  - first:
+      213: 6422410259287041606
+    second: Ryzer sitting_52
+  - first:
+      213: -3683692692180182290
+    second: Ryzer sitting_53
+  - first:
+      213: 8397303315817814945
+    second: Ryzer sitting_54
+  - first:
+      213: -7549712886903442009
+    second: Ryzer sitting_55
+  - first:
+      213: -7067937924929931376
+    second: Ryzer sitting_56
+  - first:
+      213: -7990481015453471932
+    second: Ryzer sitting_57
+  - first:
+      213: -7198241293297762430
+    second: Ryzer sitting_58
+  - first:
+      213: 6911492670730064187
+    second: Ryzer sitting_59
+  - first:
+      213: -4095251430197146940
+    second: Ryzer sitting_60
+  - first:
+      213: 5820763547324608018
+    second: Ryzer sitting_61
+  - first:
+      213: 1134659763095816547
+    second: Ryzer sitting_62
+  - first:
+      213: -6116596702237018977
+    second: Ryzer sitting_63
+  - first:
+      213: 2244250597183753606
+    second: Ryzer sitting_64
+  - first:
+      213: -912400137186249710
+    second: Ryzer sitting_65
+  - first:
+      213: -4449015373481027916
+    second: Ryzer sitting_66
+  - first:
+      213: -2990233929801756105
+    second: Ryzer sitting_67
+  - first:
+      213: 4793589383336929883
+    second: Ryzer sitting_68
+  - first:
+      213: -5991414258416401114
+    second: Ryzer sitting_69
+  - first:
+      213: -8022355071621269695
+    second: Ryzer sitting_70
+  - first:
+      213: 8874585026125709856
+    second: Ryzer sitting_71
+  - first:
+      213: 3352863246092009173
+    second: Ryzer sitting_72
+  - first:
+      213: -290823520750124196
+    second: Ryzer sitting_73
+  - first:
+      213: -8307801927607408341
+    second: Ryzer sitting_74
+  - first:
+      213: 4384498325218120377
+    second: Ryzer sitting_75
+  - first:
+      213: -2472750381674597376
+    second: Ryzer sitting_76
+  - first:
+      213: -7684672039956750635
+    second: Ryzer sitting_77
+  - first:
+      213: -4871134316419430001
+    second: Ryzer sitting_78
+  - first:
+      213: -3537493996434864539
+    second: Ryzer sitting_79
+  - first:
+      213: 5458926537784416395
+    second: Ryzer sitting_80
+  - first:
+      213: 4741631237793689964
+    second: Ryzer sitting_81
+  - first:
+      213: -8621605420497477190
+    second: Ryzer sitting_82
+  - first:
+      213: -5098951574569126811
+    second: Ryzer sitting_83
+  - first:
+      213: 4795907635469352847
+    second: Ryzer sitting_84
+  - first:
+      213: 8174991087955136396
+    second: Ryzer sitting_85
+  - first:
+      213: 2688603253772031831
+    second: Ryzer sitting_86
+  - first:
+      213: -9159419245503544165
+    second: Ryzer sitting_87
+  - first:
+      213: 8737142718812714189
+    second: Ryzer sitting_88
+  - first:
+      213: -672679006929424462
+    second: Ryzer sitting_89
+  - first:
+      213: -2672905689649534165
+    second: Ryzer sitting_90
+  - first:
+      213: 2175602604630485975
+    second: Ryzer sitting_91
+  - first:
+      213: 2025074900096128377
+    second: Ryzer sitting_92
+  - first:
+      213: -35533885165535807
+    second: Ryzer sitting_93
+  - first:
+      213: 4979956160943778595
+    second: Ryzer sitting_94
+  - first:
+      213: 6678057477830887373
+    second: Ryzer sitting_95
+  - first:
+      213: 649346470035993151
+    second: Ryzer sitting_96
+  - first:
+      213: -1332568983077626210
+    second: Ryzer sitting_97
+  - first:
+      213: -6665373700887647716
+    second: Ryzer sitting_98
+  - first:
+      213: 4552618909109144424
+    second: Ryzer sitting_99
+  - first:
+      213: -1230490044746558972
+    second: Ryzer sitting_100
+  - first:
+      213: 4141006447314453766
+    second: Ryzer sitting_101
+  - first:
+      213: 3890762650767552694
+    second: Ryzer sitting_102
+  - first:
+      213: 8413228527891245861
+    second: Ryzer sitting_103
+  - first:
+      213: 7966702781710419760
+    second: Ryzer sitting_104
+  - first:
+      213: 2080657261103009140
+    second: Ryzer sitting_105
+  - first:
+      213: -166075631561488909
+    second: Ryzer sitting_106
+  - first:
+      213: -8453528618374045217
+    second: Ryzer sitting_107
+  - first:
+      213: 5819680934192246587
+    second: Ryzer sitting_108
+  - first:
+      213: -7283795124866556974
+    second: Ryzer sitting_109
+  - first:
+      213: 7836744995948424454
+    second: Ryzer sitting_110
+  - first:
+      213: -4310039531449004610
+    second: Ryzer sitting_111
+  - first:
+      213: 7512400326603370097
+    second: Ryzer sitting_112
+  - first:
+      213: 8721603618468658090
+    second: Ryzer sitting_113
+  - first:
+      213: 5999448614802702637
+    second: Ryzer sitting_114
+  - first:
+      213: -162986343715503669
+    second: Ryzer sitting_115
+  - first:
+      213: 8309745376786388918
+    second: Ryzer sitting_116
+  - first:
+      213: 8727822910931072509
+    second: Ryzer sitting_117
+  - first:
+      213: 3775619099524836345
+    second: Ryzer sitting_118
+  - first:
+      213: -3714047408939220943
+    second: Ryzer sitting_119
+  - first:
+      213: 7994410672839349119
+    second: Ryzer sitting_120
+  - first:
+      213: 1496648338989294466
+    second: Ryzer sitting_121
+  - first:
+      213: -4736961855514541780
+    second: Ryzer sitting_122
+  - first:
+      213: -5603074480602943196
+    second: Ryzer sitting_123
+  - first:
+      213: 611213691606789981
+    second: Ryzer sitting_124
+  - first:
+      213: -2507568279341025364
+    second: Ryzer sitting_125
+  - first:
+      213: 1124655181255798442
+    second: Ryzer sitting_126
+  - first:
+      213: -3980294530356127640
+    second: Ryzer sitting_127
+  - first:
+      213: -6745414666096489035
+    second: Ryzer sitting_128
+  - first:
+      213: 158148243228375728
+    second: Ryzer sitting_129
+  - first:
+      213: -717774170220533221
+    second: Ryzer sitting_130
+  - first:
+      213: 3347417515155937003
+    second: Ryzer sitting_131
+  - first:
+      213: 5659568800293169799
+    second: Ryzer sitting_132
+  - first:
+      213: 234265572047566377
+    second: Ryzer sitting_133
+  - first:
+      213: -1240737582529107617
+    second: Ryzer sitting_134
+  - first:
+      213: -3954837964218182301
+    second: Ryzer sitting_135
+  - first:
+      213: 8282418750658064696
+    second: Ryzer sitting_136
+  - first:
+      213: -1591469770359590347
+    second: Ryzer sitting_137
+  - first:
+      213: -2869374124867572843
+    second: Ryzer sitting_138
+  - first:
+      213: -2213380258228315679
+    second: Ryzer sitting_139
+  - first:
+      213: -368976453240100693
+    second: Ryzer sitting_140
+  - first:
+      213: -7674082293294054640
+    second: Ryzer sitting_141
+  - first:
+      213: 8681962270418483059
+    second: Ryzer sitting_142
+  - first:
+      213: 1034874229770776518
+    second: Ryzer sitting_143
+  - first:
+      213: -2646480069988083793
+    second: Ryzer sitting_144
+  - first:
+      213: 4794447413916401364
+    second: Ryzer sitting_145
+  - first:
+      213: 2676890657888857112
+    second: Ryzer sitting_146
+  - first:
+      213: 8571497051566799786
+    second: Ryzer sitting_147
+  - first:
+      213: 280155690485526692
+    second: Ryzer sitting_148
+  - first:
+      213: 8290445146940552175
+    second: Ryzer sitting_149
+  - first:
+      213: -1553689116120383533
+    second: Ryzer sitting_150
+  - first:
+      213: 6528742417068423236
+    second: Ryzer sitting_151
+  - first:
+      213: -9042937094824138829
+    second: Ryzer sitting_152
+  - first:
+      213: 2371090495332135588
+    second: Ryzer sitting_153
+  - first:
+      213: -8989979321193890243
+    second: Ryzer sitting_154
+  - first:
+      213: -3045855790261054202
+    second: Ryzer sitting_155
+  - first:
+      213: 1490857976641467003
+    second: Ryzer sitting_156
+  - first:
+      213: 5257628601018393561
+    second: Ryzer sitting_157
+  - first:
+      213: -4135397820427175239
+    second: Ryzer sitting_158
+  - first:
+      213: -184982795786985872
+    second: Ryzer sitting_159
+  - first:
+      213: 7687360047178471658
+    second: Ryzer sitting_160
+  - first:
+      213: -6290963241635948691
+    second: Ryzer sitting_161
+  - first:
+      213: -7970203474351479878
+    second: Ryzer sitting_162
+  - first:
+      213: -5096876736860900248
+    second: Ryzer sitting_163
+  - first:
+      213: 3192687309063013262
+    second: Ryzer sitting_164
+  - first:
+      213: 2038702424639189635
+    second: Ryzer sitting_165
+  - first:
+      213: 7114514771069337359
+    second: Ryzer sitting_166
+  - first:
+      213: -6878030480334280438
+    second: Ryzer sitting_167
+  - first:
+      213: 1912159773907758149
+    second: Ryzer sitting_168
+  - first:
+      213: -8204565266240508493
+    second: Ryzer sitting_169
+  - first:
+      213: -280677348004501988
+    second: Ryzer sitting_170
+  - first:
+      213: -4627683789908326405
+    second: Ryzer sitting_171
+  - first:
+      213: 9147163575183433216
+    second: Ryzer sitting_172
+  - first:
+      213: 6400306825431633970
+    second: Ryzer sitting_173
+  - first:
+      213: 7339433376951551439
+    second: Ryzer sitting_174
+  - first:
+      213: 2504512693454994686
+    second: Ryzer sitting_175
+  - first:
+      213: 8562023896988450735
+    second: Ryzer sitting_176
+  - first:
+      213: -3522407508031490462
+    second: Ryzer sitting_177
+  - first:
+      213: -3761198956130648331
+    second: Ryzer sitting_178
+  - first:
+      213: -1325697077349542341
+    second: Ryzer sitting_179
+  - first:
+      213: -3833525107117989043
+    second: Ryzer sitting_180
+  - first:
+      213: -2901115013004418770
+    second: Ryzer sitting_181
+  - first:
+      213: 6693762580571499968
+    second: Ryzer sitting_182
+  - first:
+      213: 2981307126444698950
+    second: Ryzer sitting_183
+  - first:
+      213: -7453833797156354686
+    second: Ryzer sitting_184
+  - first:
+      213: 4008529490263280829
+    second: Ryzer sitting_185
+  - first:
+      213: -4418679685847157550
+    second: Ryzer sitting_186
+  - first:
+      213: -2043618684808341245
+    second: Ryzer sitting_187
+  - first:
+      213: -4321708137504234498
+    second: Ryzer sitting_188
+  - first:
+      213: -5431867880225205042
+    second: Ryzer sitting_189
+  - first:
+      213: 8989835967514831457
+    second: Ryzer sitting_190
+  - first:
+      213: -8305418720444275373
+    second: Ryzer sitting_191
+  - first:
+      213: 8606459432078354379
+    second: Ryzer sitting_192
+  - first:
+      213: 620014183982138010
+    second: Ryzer sitting_193
+  - first:
+      213: 8374510293562024199
+    second: Ryzer sitting_194
+  - first:
+      213: -5336882294628959797
+    second: Ryzer sitting_195
+  - first:
+      213: -4407180735347471035
+    second: Ryzer sitting_196
+  - first:
+      213: -5097919109021538794
+    second: Ryzer sitting_197
+  - first:
+      213: 2934038927259340410
+    second: Ryzer sitting_198
+  - first:
+      213: -4343274411327963406
+    second: Ryzer sitting_199
+  - first:
+      213: 9203563797057638458
+    second: Ryzer sitting_200
+  - first:
+      213: 670868039499290031
+    second: Ryzer sitting_201
+  - first:
+      213: -326366235649307563
+    second: Ryzer sitting_202
+  - first:
+      213: -1727681869698192470
+    second: Ryzer sitting_203
+  - first:
+      213: -1553960418339403353
+    second: Ryzer sitting_204
+  - first:
+      213: 4041199968100173522
+    second: Ryzer sitting_205
+  - first:
+      213: 1437283053893841023
+    second: Ryzer sitting_206
+  - first:
+      213: -6753991199364226527
+    second: Ryzer sitting_207
+  - first:
+      213: -1911069993862517930
+    second: Ryzer sitting_208
+  - first:
+      213: -1617657542097717826
+    second: Ryzer sitting_209
+  - first:
+      213: 97058135445463086
+    second: Ryzer sitting_210
+  - first:
+      213: 5820585174891690126
+    second: Ryzer sitting_211
+  - first:
+      213: 8351904177565703275
+    second: Ryzer sitting_212
+  - first:
+      213: -1028719556128094140
+    second: Ryzer sitting_213
+  - first:
+      213: -4182140379427437126
+    second: Ryzer sitting_214
+  - first:
+      213: 5636550675925230603
+    second: Ryzer sitting_215
+  - first:
+      213: -4324787165131175474
+    second: Ryzer sitting_216
+  - first:
+      213: 4267239236625296433
+    second: Ryzer sitting_217
+  - first:
+      213: -7921277242536691466
+    second: Ryzer sitting_218
+  - first:
+      213: -8560825848719711688
+    second: Ryzer sitting_219
+  - first:
+      213: -577634845345631713
+    second: Ryzer sitting_220
+  - first:
+      213: 8167682642525671308
+    second: Ryzer sitting_221
+  - first:
+      213: -4987908999764099345
+    second: Ryzer sitting_222
+  - first:
+      213: 7551344683624997135
+    second: Ryzer sitting_223
+  - first:
+      213: 7297505760320680677
+    second: Ryzer sitting_224
+  - first:
+      213: -8871516651066053972
+    second: Ryzer sitting_225
+  - first:
+      213: 7434274813067049971
+    second: Ryzer sitting_226
+  - first:
+      213: -4713602284856779589
+    second: Ryzer sitting_227
+  - first:
+      213: -8001649542163406815
+    second: Ryzer sitting_228
+  - first:
+      213: 1332074260401887608
+    second: Ryzer sitting_229
+  - first:
+      213: -155495259148796926
+    second: Ryzer sitting_230
+  - first:
+      213: -8944238676346795418
+    second: Ryzer sitting_231
+  - first:
+      213: -3483774689222069394
+    second: Ryzer sitting_232
+  - first:
+      213: 422165091004918413
+    second: Ryzer sitting_233
+  - first:
+      213: 6003002745356265481
+    second: Ryzer sitting_234
+  - first:
+      213: 7504773846161504273
+    second: Ryzer sitting_235
+  - first:
+      213: 4183979803009712349
+    second: Ryzer sitting_236
+  - first:
+      213: -463317515325442894
+    second: Ryzer sitting_237
+  - first:
+      213: -8728520157140514858
+    second: Ryzer sitting_238
+  - first:
+      213: 8302049676523221308
+    second: Ryzer sitting_239
+  - first:
+      213: -8461142934943632110
+    second: Ryzer sitting_240
+  - first:
+      213: 7802103529818813304
+    second: Ryzer sitting_241
+  - first:
+      213: -79107883622807100
+    second: Ryzer sitting_242
+  - first:
+      213: -4629826953023858836
+    second: Ryzer sitting_243
+  - first:
+      213: -8981393547175557594
+    second: Ryzer sitting_244
+  - first:
+      213: -2237600515868451807
+    second: Ryzer sitting_245
+  - first:
+      213: -9185582668094557113
+    second: Ryzer sitting_246
+  - first:
+      213: -8770628154740138784
+    second: Ryzer sitting_247
+  - first:
+      213: 1584970532638783523
+    second: Ryzer sitting_248
+  - first:
+      213: 732949730339298147
+    second: Ryzer sitting_249
+  - first:
+      213: 3409466677609643
+    second: Ryzer sitting_250
+  - first:
+      213: 8627115447698175751
+    second: Ryzer sitting_251
+  - first:
+      213: -704531179859275983
+    second: Ryzer sitting_252
+  - first:
+      213: 1092770799238287680
+    second: Ryzer sitting_253
+  - first:
+      213: -2727800680453009562
+    second: Ryzer sitting_254
+  - first:
+      213: 2425380340447549356
+    second: Ryzer sitting_255
+  - first:
+      213: 7670510406005007005
+    second: Ryzer sitting_256
+  - first:
+      213: 3968332018206923728
+    second: Ryzer sitting_257
+  - first:
+      213: -6797176968973672705
+    second: Ryzer sitting_258
+  - first:
+      213: -9149370458654709506
+    second: Ryzer sitting_259
+  - first:
+      213: -3916632144461570248
+    second: Ryzer sitting_260
+  - first:
+      213: 5492164857144745444
+    second: Ryzer sitting_261
+  - first:
+      213: 1486630305088857511
+    second: Ryzer sitting_262
+  - first:
+      213: -591957738619853779
+    second: Ryzer sitting_263
+  - first:
+      213: -764170125410290908
+    second: Ryzer sitting_264
+  - first:
+      213: 3729596007943293769
+    second: Ryzer sitting_265
+  - first:
+      213: -2096645436022672177
+    second: Ryzer sitting_266
+  - first:
+      213: -6348120886426013903
+    second: Ryzer sitting_267
+  - first:
+      213: -7061714715940825902
+    second: Ryzer sitting_268
+  - first:
+      213: -5849839598210995259
+    second: Ryzer sitting_269
+  - first:
+      213: 4955280026950379751
+    second: Ryzer sitting_270
+  - first:
+      213: 6753480154816985219
+    second: Ryzer sitting_271
+  - first:
+      213: 2663994497761915579
+    second: Ryzer sitting_272
+  - first:
+      213: -3447699294278597869
+    second: Ryzer sitting_273
+  - first:
+      213: 4031824892385744189
+    second: Ryzer sitting_274
+  - first:
+      213: -6234919714824260084
+    second: Ryzer sitting_275
+  - first:
+      213: -8673894630072344316
+    second: Ryzer sitting_276
+  - first:
+      213: -3152831284225997987
+    second: Ryzer sitting_277
+  - first:
+      213: 793927293713796767
+    second: Ryzer sitting_278
+  - first:
+      213: 2137761357140407109
+    second: Ryzer sitting_279
+  - first:
+      213: 2918305873752334420
+    second: Ryzer sitting_280
+  - first:
+      213: -1682466555083563933
+    second: Ryzer sitting_281
+  - first:
+      213: 7877303928088072833
+    second: Ryzer sitting_282
+  - first:
+      213: 1046947456916572856
+    second: Ryzer sitting_283
+  - first:
+      213: -5033380107634286791
+    second: Ryzer sitting_284
+  - first:
+      213: 3635460461525484733
+    second: Ryzer sitting_285
+  - first:
+      213: 3015020568390638915
+    second: Ryzer sitting_286
+  - first:
+      213: -5295826024758782243
+    second: Ryzer sitting_287
+  - first:
+      213: -5742509590727628427
+    second: Ryzer sitting_288
+  - first:
+      213: 6440431376264183021
+    second: Ryzer sitting_289
+  - first:
+      213: -5872637189289537246
+    second: Ryzer sitting_290
+  - first:
+      213: 4853689125252495997
+    second: Ryzer sitting_291
+  - first:
+      213: 5947420010756310625
+    second: Ryzer sitting_292
+  - first:
+      213: -9150074887392397722
+    second: Ryzer sitting_293
+  - first:
+      213: -288468836967481862
+    second: Ryzer sitting_294
+  - first:
+      213: 9169325444167061349
+    second: Ryzer sitting_295
+  - first:
+      213: 5643014176283174338
+    second: Ryzer sitting_296
+  - first:
+      213: -7126900754150977711
+    second: Ryzer sitting_297
+  - first:
+      213: -8097979940559068168
+    second: Ryzer sitting_298
+  - first:
+      213: 2125160348451272667
+    second: Ryzer sitting_299
+  - first:
+      213: 14059098775595782
+    second: Ryzer sitting_300
+  - first:
+      213: 1567542321193165982
+    second: Ryzer sitting_301
+  - first:
+      213: 4668354084276162844
+    second: Ryzer sitting_302
+  - first:
+      213: 4117559244332601504
+    second: Ryzer sitting_303
+  - first:
+      213: 6903936530111438365
+    second: Ryzer sitting_304
+  - first:
+      213: 7566212410986135390
+    second: Ryzer sitting_305
+  - first:
+      213: 8571878586551901806
+    second: Ryzer sitting_306
+  - first:
+      213: 5262607104589304331
+    second: Ryzer sitting_307
+  - first:
+      213: 2915252423075974304
+    second: Ryzer sitting_308
+  - first:
+      213: -6803360177921034054
+    second: Ryzer sitting_309
+  - first:
+      213: 6649855224847437036
+    second: Ryzer sitting_310
+  - first:
+      213: 4718988701014331306
+    second: Ryzer sitting_311
+  - first:
+      213: 8366092312004258244
+    second: Ryzer sitting_312
+  - first:
+      213: 9187363710973934455
+    second: Ryzer sitting_313
+  - first:
+      213: -8858412555462328011
+    second: Ryzer sitting_314
+  - first:
+      213: -4877242994523092487
+    second: Ryzer sitting_315
+  - first:
+      213: 2517298291471512414
+    second: Ryzer sitting_316
+  - first:
+      213: -1116920642519798100
+    second: Ryzer sitting_317
+  - first:
+      213: -4755676488147691724
+    second: Ryzer sitting_318
+  - first:
+      213: 904869008521874232
+    second: Ryzer sitting_319
+  - first:
+      213: 6716438088300731054
+    second: Ryzer sitting_320
+  - first:
+      213: 5764231729987032477
+    second: Ryzer sitting_321
+  - first:
+      213: -1210970703358430468
+    second: Ryzer sitting_322
+  - first:
+      213: -4721077694593120227
+    second: Ryzer sitting_323
+  - first:
+      213: 7064086154369700320
+    second: Ryzer sitting_324
+  - first:
+      213: 6476301091770297621
+    second: Ryzer sitting_325
+  - first:
+      213: -6514930074400791931
+    second: Ryzer sitting_326
+  - first:
+      213: 7226732966651313129
+    second: Ryzer sitting_327
+  - first:
+      213: -8143640047033222205
+    second: Ryzer sitting_328
+  - first:
+      213: 1308923089588644082
+    second: Ryzer sitting_329
+  - first:
+      213: -3739506653557208115
+    second: Ryzer sitting_330
+  - first:
+      213: -1105301642536031191
+    second: Ryzer sitting_331
+  - first:
+      213: -3247675852863410625
+    second: Ryzer sitting_332
+  - first:
+      213: -1873204813964523933
+    second: Ryzer sitting_333
+  - first:
+      213: 2890397477537451323
+    second: Ryzer sitting_334
+  - first:
+      213: -2713660593719765032
+    second: Ryzer sitting_335
+  - first:
+      213: 8620249599592105166
+    second: Ryzer sitting_336
+  - first:
+      213: 5415794913363354678
+    second: Ryzer sitting_337
+  - first:
+      213: -4078282507756408113
+    second: Ryzer sitting_338
+  - first:
+      213: -8255833804742379345
+    second: Ryzer sitting_339
+  - first:
+      213: 967535450422470696
+    second: Ryzer sitting_340
+  - first:
+      213: 3582767022376891043
+    second: Ryzer sitting_341
+  - first:
+      213: 4013467437023542575
+    second: Ryzer sitting_342
+  - first:
+      213: -5251522011926715498
+    second: Ryzer sitting_343
+  - first:
+      213: -4982159465177765239
+    second: Ryzer sitting_344
+  - first:
+      213: 4799959071000939394
+    second: Ryzer sitting_345
+  - first:
+      213: 7350648477288763517
+    second: Ryzer sitting_346
+  - first:
+      213: -6924292143022188764
+    second: Ryzer sitting_347
+  - first:
+      213: 2480266802943496038
+    second: Ryzer sitting_348
+  - first:
+      213: 2072731404239540109
+    second: Ryzer sitting_349
+  - first:
+      213: -6877254891954925003
+    second: Ryzer sitting_350
+  - first:
+      213: -6851451827554026707
+    second: Ryzer sitting_351
+  - first:
+      213: -4818776543248687579
+    second: Ryzer sitting_352
+  - first:
+      213: -2475196749431986236
+    second: Ryzer sitting_353
+  - first:
+      213: 4975479021183300459
+    second: Ryzer sitting_354
+  - first:
+      213: 4456257136223682789
+    second: Ryzer sitting_355
+  - first:
+      213: 3398524519431164793
+    second: Ryzer sitting_356
+  - first:
+      213: -8373532054623972518
+    second: Ryzer sitting_357
+  - first:
+      213: 2077186460501642799
+    second: Ryzer sitting_358
+  - first:
+      213: -3531400668261141223
+    second: Ryzer sitting_359
+  - first:
+      213: -2992345587479225758
+    second: Ryzer sitting_360
+  - first:
+      213: 7903763180343283977
+    second: Ryzer sitting_361
+  - first:
+      213: 7595941245484891245
+    second: Ryzer sitting_362
+  - first:
+      213: 2412192973274401919
+    second: Ryzer sitting_363
+  - first:
+      213: 4959224716208768505
+    second: Ryzer sitting_364
+  - first:
+      213: 961649204157460175
+    second: Ryzer sitting_365
+  - first:
+      213: 8024744509344691955
+    second: Ryzer sitting_366
+  - first:
+      213: 4233564514352957530
+    second: Ryzer sitting_367
+  - first:
+      213: -5271891400743505754
+    second: Ryzer sitting_368
+  - first:
+      213: 8659160033838844929
+    second: Ryzer sitting_369
+  - first:
+      213: 688018908656271983
+    second: Ryzer sitting_370
+  - first:
+      213: 7282443633792630697
+    second: Ryzer sitting_371
+  - first:
+      213: 6054147947319348693
+    second: Ryzer sitting_372
+  - first:
+      213: 4444222262299757690
+    second: Ryzer sitting_373
+  - first:
+      213: 8926128121506258517
+    second: Ryzer sitting_374
+  - first:
+      213: 6535832843787456460
+    second: Ryzer sitting_375
+  - first:
+      213: 1194636447420295555
+    second: Ryzer sitting_376
+  - first:
+      213: -991692324658065291
+    second: Ryzer sitting_377
+  - first:
+      213: -1914802991287511409
+    second: Ryzer sitting_378
+  - first:
+      213: -653431303306703319
+    second: Ryzer sitting_379
+  - first:
+      213: 4408586090592270769
+    second: Ryzer sitting_380
+  - first:
+      213: -579070707610767603
+    second: Ryzer sitting_381
+  - first:
+      213: -3824979464894341752
+    second: Ryzer sitting_382
+  - first:
+      213: -3822968978271578993
+    second: Ryzer sitting_383
+  - first:
+      213: -7306869753011237257
+    second: Ryzer sitting_384
+  - first:
+      213: 677041157934102414
+    second: Ryzer sitting_385
+  - first:
+      213: 8061416736549891371
+    second: Ryzer sitting_386
+  - first:
+      213: -4493031433450482341
+    second: Ryzer sitting_387
+  - first:
+      213: 3743510865032449579
+    second: Ryzer sitting_388
+  - first:
+      213: -1345960868034441363
+    second: Ryzer sitting_389
+  - first:
+      213: 249462055736355688
+    second: Ryzer sitting_390
+  - first:
+      213: 8780089438446987988
+    second: Ryzer sitting_391
+  - first:
+      213: -4425458307993359793
+    second: Ryzer sitting_392
+  - first:
+      213: -7362904626924467790
+    second: Ryzer sitting_393
+  - first:
+      213: 8977775575963959676
+    second: Ryzer sitting_394
+  - first:
+      213: -1386205456425340970
+    second: Ryzer sitting_395
+  - first:
+      213: -1640425867622216330
+    second: Ryzer sitting_396
+  - first:
+      213: 7261306973297196869
+    second: Ryzer sitting_397
+  - first:
+      213: -4233096062854220063
+    second: Ryzer sitting_398
+  - first:
+      213: 6185551023121033013
+    second: Ryzer sitting_399
+  - first:
+      213: 9163353597632925028
+    second: Ryzer sitting_400
+  - first:
+      213: 883859788214386243
+    second: Ryzer sitting_401
+  - first:
+      213: 4143749210012820757
+    second: Ryzer sitting_402
+  - first:
+      213: 3090129182928404840
+    second: Ryzer sitting_403
+  - first:
+      213: 1097214660587096932
+    second: Ryzer sitting_404
+  - first:
+      213: 5739401212525141000
+    second: Ryzer sitting_405
+  - first:
+      213: -5024761094402870920
+    second: Ryzer sitting_406
+  - first:
+      213: -2548578518663228950
+    second: Ryzer sitting_407
+  - first:
+      213: 8902300174391527128
+    second: Ryzer sitting_408
+  - first:
+      213: 4112789918869173357
+    second: Ryzer sitting_409
+  - first:
+      213: -25036047670647230
+    second: Ryzer sitting_410
+  - first:
+      213: 8512151401355992786
+    second: Ryzer sitting_411
+  - first:
+      213: 8287829187938746110
+    second: Ryzer sitting_412
+  - first:
+      213: -2896022001238889224
+    second: Ryzer sitting_413
+  - first:
+      213: 8031274165111907568
+    second: Ryzer sitting_414
+  - first:
+      213: 2029873835119041803
+    second: Ryzer sitting_415
+  - first:
+      213: -407630282284277551
+    second: Ryzer sitting_416
+  - first:
+      213: -3905428366737358589
+    second: Ryzer sitting_417
+  - first:
+      213: 4711390815554265113
+    second: Ryzer sitting_418
+  - first:
+      213: 7941081188942106682
+    second: Ryzer sitting_419
+  - first:
+      213: 5685238974899476336
+    second: Ryzer sitting_420
+  - first:
+      213: -5631988068490364098
+    second: Ryzer sitting_421
+  - first:
+      213: -2599353814437455493
+    second: Ryzer sitting_422
+  - first:
+      213: -5835650723629050416
+    second: Ryzer sitting_423
+  - first:
+      213: 614069851069398215
+    second: Ryzer sitting_424
+  - first:
+      213: 4166455150361227120
+    second: Ryzer sitting_425
+  - first:
+      213: -1199144107213046108
+    second: Ryzer sitting_426
+  - first:
+      213: -6033374685098303044
+    second: Ryzer sitting_427
+  - first:
+      213: 3005770506343224604
+    second: Ryzer sitting_428
+  - first:
+      213: 4053738772730836226
+    second: Ryzer sitting_429
+  - first:
+      213: -2151510697744816783
+    second: Ryzer sitting_430
+  - first:
+      213: -8354734296432985272
+    second: Ryzer sitting_431
+  - first:
+      213: -4205739677091145373
+    second: Ryzer sitting_432
+  - first:
+      213: -1931698991225455890
+    second: Ryzer sitting_433
+  - first:
+      213: 2761521994310588029
+    second: Ryzer sitting_434
+  - first:
+      213: 6619394714839462222
+    second: Ryzer sitting_435
+  - first:
+      213: 4118079172002603046
+    second: Ryzer sitting_436
+  - first:
+      213: -6089283959767631387
+    second: Ryzer sitting_437
+  - first:
+      213: -6057834947413225710
+    second: Ryzer sitting_438
+  - first:
+      213: -2693855863603898204
+    second: Ryzer sitting_439
+  - first:
+      213: -995587840214370122
+    second: Ryzer sitting_440
+  - first:
+      213: 8507979365555373060
+    second: Ryzer sitting_441
+  - first:
+      213: 6265760267268518535
+    second: Ryzer sitting_442
+  - first:
+      213: -1664561209951977032
+    second: Ryzer sitting_443
+  - first:
+      213: 3082445666326679672
+    second: Ryzer sitting_444
+  - first:
+      213: -8933384028091208916
+    second: Ryzer sitting_445
+  - first:
+      213: -4294092079165317172
+    second: Ryzer sitting_446
+  - first:
+      213: -8857262962222989318
+    second: Ryzer sitting_447
+  - first:
+      213: 5548051370355579058
+    second: Ryzer sitting_448
+  - first:
+      213: -4341246511454459895
+    second: Ryzer sitting_449
+  - first:
+      213: 3266126476566552821
+    second: Ryzer sitting_450
+  - first:
+      213: -4191878851483613696
+    second: Ryzer sitting_451
+  - first:
+      213: 3001903633886638139
+    second: Ryzer sitting_452
+  - first:
+      213: -7049483839917928942
+    second: Ryzer sitting_453
+  - first:
+      213: -476995157796245937
+    second: Ryzer sitting_454
+  - first:
+      213: 2761950626762884223
+    second: Ryzer sitting_455
+  - first:
+      213: 204829883356399395
+    second: Ryzer sitting_456
+  - first:
+      213: 7346112444527614624
+    second: Ryzer sitting_457
+  - first:
+      213: 3116859680568302502
+    second: Ryzer sitting_458
+  - first:
+      213: 8011155035167688963
+    second: Ryzer sitting_459
+  - first:
+      213: -3270139675683546651
+    second: Ryzer sitting_460
+  - first:
+      213: 2826376271665757191
+    second: Ryzer sitting_461
+  - first:
+      213: 4537689619626474899
+    second: Ryzer sitting_462
+  - first:
+      213: -4291470091001638387
+    second: Ryzer sitting_463
+  - first:
+      213: 3323912621305196390
+    second: Ryzer sitting_464
+  - first:
+      213: -244738235175571678
+    second: Ryzer sitting_465
+  - first:
+      213: -3723991651202924372
+    second: Ryzer sitting_466
+  - first:
+      213: 6614815463472124319
+    second: Ryzer sitting_467
+  - first:
+      213: 5713513376344655942
+    second: Ryzer sitting_468
+  - first:
+      213: -6478040838988521737
+    second: Ryzer sitting_469
+  - first:
+      213: 2933479140843492135
+    second: Ryzer sitting_470
+  - first:
+      213: 4450992512065334452
+    second: Ryzer sitting_471
+  - first:
+      213: 8707552108461330666
+    second: Ryzer sitting_472
+  - first:
+      213: -1792310363520183206
+    second: Ryzer sitting_473
+  - first:
+      213: -385385816375204685
+    second: Ryzer sitting_474
+  - first:
+      213: -3135976620429085960
+    second: Ryzer sitting_475
+  - first:
+      213: -2602549700848992206
+    second: Ryzer sitting_476
+  - first:
+      213: -2596486883838366242
+    second: Ryzer sitting_477
+  - first:
+      213: 4195039102578350579
+    second: Ryzer sitting_478
+  - first:
+      213: 8621077622986327308
+    second: Ryzer sitting_479
+  - first:
+      213: 1517552638397441440
+    second: Ryzer sitting_480
+  - first:
+      213: -487845050935170849
+    second: Ryzer sitting_481
+  - first:
+      213: -739403711003503486
+    second: Ryzer sitting_482
+  - first:
+      213: 5465639041167890137
+    second: Ryzer sitting_483
+  - first:
+      213: 8177036940950650557
+    second: Ryzer sitting_484
+  - first:
+      213: 6959888410755790396
+    second: Ryzer sitting_485
+  - first:
+      213: -2911612499080183982
+    second: Ryzer sitting_486
+  - first:
+      213: 6841976571455298589
+    second: Ryzer sitting_487
+  - first:
+      213: 6744413768610933714
+    second: Ryzer sitting_488
+  - first:
+      213: -6913851497366945717
+    second: Ryzer sitting_489
+  - first:
+      213: -884975186649526490
+    second: Ryzer sitting_490
+  - first:
+      213: -4093208276230515723
+    second: Ryzer sitting_491
+  - first:
+      213: 6773721150613101454
+    second: Ryzer sitting_492
+  - first:
+      213: 5803719190318714630
+    second: Ryzer sitting_493
+  - first:
+      213: -4104536392653829376
+    second: Ryzer sitting_494
+  - first:
+      213: -7416828844815828379
+    second: Ryzer sitting_495
+  - first:
+      213: -5916038517851753750
+    second: Ryzer sitting_496
+  - first:
+      213: 7996600542835155381
+    second: Ryzer sitting_497
+  - first:
+      213: -9048813474426499047
+    second: Ryzer sitting_498
+  - first:
+      213: 3395767209311003797
+    second: Ryzer sitting_499
+  - first:
+      213: 8393745114198662936
+    second: Ryzer sitting_500
+  - first:
+      213: 5429876577198201899
+    second: Ryzer sitting_501
+  - first:
+      213: -357620172553439767
+    second: Ryzer sitting_502
+  - first:
+      213: -3066435698260631581
+    second: Ryzer sitting_503
+  - first:
+      213: -666411527961012662
+    second: Ryzer sitting_504
+  - first:
+      213: -8795297612522623433
+    second: Ryzer sitting_505
+  - first:
+      213: -4674333997665549208
+    second: Ryzer sitting_506
+  - first:
+      213: 2267220226608713805
+    second: Ryzer sitting_507
+  - first:
+      213: -5513591344815873548
+    second: Ryzer sitting_508
+  - first:
+      213: -8948970532458044880
+    second: Ryzer sitting_509
+  - first:
+      213: 8793289648522741094
+    second: Ryzer sitting_510
+  - first:
+      213: -6809062609112222967
+    second: Ryzer sitting_511
+  - first:
+      213: -5225987468046250195
+    second: Ryzer sitting_512
+  - first:
+      213: 8766189483277243325
+    second: Ryzer sitting_513
+  - first:
+      213: -4693072910497749376
+    second: Ryzer sitting_514
+  - first:
+      213: 7383137857525190405
+    second: Ryzer sitting_515
+  - first:
+      213: 838690012510236518
+    second: Ryzer sitting_516
+  - first:
+      213: 6411130431527207307
+    second: Ryzer sitting_517
+  - first:
+      213: -2064539270878048223
+    second: Ryzer sitting_518
+  - first:
+      213: 300868246972071206
+    second: Ryzer sitting_519
+  - first:
+      213: -3816173092056704738
+    second: Ryzer sitting_520
+  - first:
+      213: 5732731050531569913
+    second: Ryzer sitting_521
+  - first:
+      213: 5403363621529528064
+    second: Ryzer sitting_522
+  - first:
+      213: 1961009726739724627
+    second: Ryzer sitting_523
+  - first:
+      213: 3106579193961758489
+    second: Ryzer sitting_524
+  - first:
+      213: 6518256155964969431
+    second: Ryzer sitting_525
+  - first:
+      213: 8718968183026803822
+    second: Ryzer sitting_526
+  - first:
+      213: -652357472110238206
+    second: Ryzer sitting_527
+  - first:
+      213: -8788685036530095528
+    second: Ryzer sitting_528
+  - first:
+      213: -138135167386862388
+    second: Ryzer sitting_529
+  - first:
+      213: -8627949116144256149
+    second: Ryzer sitting_530
+  - first:
+      213: 3703696454876617119
+    second: Ryzer sitting_531
+  - first:
+      213: -4372042706957777996
+    second: Ryzer sitting_532
+  - first:
+      213: 5320942220594181914
+    second: Ryzer sitting_533
+  - first:
+      213: 1002923813895165842
+    second: Ryzer sitting_534
+  - first:
+      213: -7341182562595904078
+    second: Ryzer sitting_535
+  - first:
+      213: 3440828058784441140
+    second: Ryzer sitting_536
+  - first:
+      213: 8019902854012047858
+    second: Ryzer sitting_537
+  - first:
+      213: 912343575217044651
+    second: Ryzer sitting_538
+  - first:
+      213: -5777728623897316763
+    second: Ryzer sitting_539
+  - first:
+      213: -4372027753627364699
+    second: Ryzer sitting_540
+  - first:
+      213: -6510861711695020231
+    second: Ryzer sitting_541
+  - first:
+      213: -5480216945637364579
+    second: Ryzer sitting_542
+  - first:
+      213: 3912530229325780341
+    second: Ryzer sitting_543
+  - first:
+      213: -5175732211709095045
+    second: Ryzer sitting_544
+  - first:
+      213: 3459884198514716770
+    second: Ryzer sitting_545
+  - first:
+      213: -7046147447727584539
+    second: Ryzer sitting_546
+  - first:
+      213: 3321250980346764152
+    second: Ryzer sitting_547
+  - first:
+      213: -2162325002607391512
+    second: Ryzer sitting_548
+  - first:
+      213: 5812801401249969817
+    second: Ryzer sitting_549
+  - first:
+      213: 7011929455536241729
+    second: Ryzer sitting_550
+  - first:
+      213: -2190797519526431409
+    second: Ryzer sitting_551
+  - first:
+      213: -8946797791551329194
+    second: Ryzer sitting_552
+  - first:
+      213: 475502525487570258
+    second: Ryzer sitting_553
+  - first:
+      213: -7956339632992419722
+    second: Ryzer sitting_554
+  - first:
+      213: -726389131770608293
+    second: Ryzer sitting_555
+  - first:
+      213: -3304823894471128900
+    second: Ryzer sitting_556
+  - first:
+      213: -4357679525866578093
+    second: Ryzer sitting_557
+  - first:
+      213: 2066401646929510187
+    second: Ryzer sitting_558
+  - first:
+      213: 4636697572278339921
+    second: Ryzer sitting_559
+  - first:
+      213: 3551592426472187555
+    second: Ryzer sitting_560
+  - first:
+      213: 9046323737232661535
+    second: Ryzer sitting_561
+  - first:
+      213: -8026791865978339920
+    second: Ryzer sitting_562
+  - first:
+      213: 5604239414841898413
+    second: Ryzer sitting_563
+  - first:
+      213: 7465252334295461269
+    second: Ryzer sitting_564
+  - first:
+      213: -631365072814199054
+    second: Ryzer sitting_565
+  - first:
+      213: 7770823792413803004
+    second: Ryzer sitting_566
+  - first:
+      213: -6401222650818910471
+    second: Ryzer sitting_567
+  - first:
+      213: 9217971469547737140
+    second: Ryzer sitting_568
+  - first:
+      213: -6935074951625663090
+    second: Ryzer sitting_569
+  - first:
+      213: -5924214697501047252
+    second: Ryzer sitting_570
+  - first:
+      213: -1276110893310711610
+    second: Ryzer sitting_571
+  - first:
+      213: 446165098196213669
+    second: Ryzer sitting_572
+  - first:
+      213: -5891246950028601662
+    second: Ryzer sitting_573
+  - first:
+      213: 4295157798760962678
+    second: Ryzer sitting_574
+  - first:
+      213: 5488080117809826258
+    second: Ryzer sitting_575
+  - first:
+      213: 8518363496109520777
+    second: Ryzer sitting_576
+  - first:
+      213: -3234909746519072141
+    second: Ryzer sitting_577
+  - first:
+      213: 5051326793069022789
+    second: Ryzer sitting_578
+  - first:
+      213: 7675642704478773217
+    second: Ryzer sitting_579
+  - first:
+      213: -474098022047846545
+    second: Ryzer sitting_580
+  - first:
+      213: -6642924261470288463
+    second: Ryzer sitting_581
+  - first:
+      213: 2197199374456047539
+    second: Ryzer sitting_582
+  - first:
+      213: -7130113794954400055
+    second: Ryzer sitting_583
+  - first:
+      213: -4300801915218107291
+    second: Ryzer sitting_584
+  - first:
+      213: 2803604749019928935
+    second: Ryzer sitting_0
+  - first:
+      213: -4304987292524024873
+    second: Ryzer sitting_1
+  - first:
+      213: 8301088989664052540
+    second: Ryzer sitting_2
+  - first:
+      213: -7391078179972101164
+    second: Ryzer sitting_3
+  - first:
+      213: 5489426874823573482
+    second: Ryzer sitting_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ryzer sitting_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe882cddc9144c0800000000000000
+      internalID: -4304987292524024873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer sitting_3
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3200
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db4f9f0e8d9d6990800000000000000
+      internalID: -7391078179972101164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer sitting_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1592
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a58f209adb05160800000000000000
+      internalID: 7012313153412815416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer sitting_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1592
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16b2042c7b44fc80800000000000000
+      internalID: -8289918017530055142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer sitting_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabbcf3e6c4bfe00800000000000000
+      internalID: 1079540572085795537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

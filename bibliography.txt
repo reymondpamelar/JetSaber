@@ -1,0 +1,31 @@
+10/27 Folder contents: warped city files 
+	-ansimuz from opengameart.org
+10/29 Character Model: Ryzer 
+	-By Reymond Pamelar using Piskel
+10/29 Ryzer Idle animation
+	-By Reymond Pamelar using Piskel
+10/29 Ryzer Attack animation
+	-By Reymond Pamelar using Piskel
+11/7 Sound File: Arex's Beat
+	-Varon Kein from opengameart.org
+11/10 Sound File: Retrospect
+	-Vandalorum from opengameart.org
+11/10 Various menu animations and attack effects:
+	*Folder: Play Game
+	*Folder: Settings
+	*Folder: About
+	*Folder: Quit
+	*Folder: sword slash
+	-Made using TextDrom.com text animations
+11/14 Sound File: Ryzer Damaged.MP3
+	-Reymond Pamelar
+11/14 Sounds in Folder: Cutscene
+	-Sounds made by Reymond Pamelar
+11/14 Sound File: Storm-Sound.MP3
+	-Alexander from orangefreesounds.com
+11/15 Sound File: WiFi Trasherino.mp3
+	-Sudocolon from opengameart.org
+11/15 Sound File: Are You With Us. wav
+	-Wontolla from opengameart.org
+11/15 Ryzer Standing animation
+	-By Reymond Pamelar using Piskel

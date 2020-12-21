@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: 6168a3f429ef65c42b179897b85d7e78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6983307531011372622
+    second: Ryzer Slash Down_0
+  - first:
+      213: 195880761381593038
+    second: Ryzer Slash Down_1
+  - first:
+      213: 1155415592983144597
+    second: Ryzer Slash Down_2
+  - first:
+      213: -3554279477292038828
+    second: Ryzer Slash Down_3
+  - first:
+      213: -9152136526090735110
+    second: Ryzer Slash Down_4
+  - first:
+      213: -4843421729264769642
+    second: Ryzer Slash Down_4
+  - first:
+      213: 1276460321552657118
+    second: Ryzer Slash Down_6
+  - first:
+      213: 7270412399911377898
+    second: Ryzer Slash Down_7
+  - first:
+      213: -3320798396301253907
+    second: Ryzer Slash Down_8
+  - first:
+      213: -7672817089118128048
+    second: Ryzer Slash Down_9
+  - first:
+      213: 4279057595925874136
+    second: Ryzer Slash Down_10
+  - first:
+      213: 5688290345675216322
+    second: Ryzer Slash Down_11
+  - first:
+      213: 1202985021065743878
+    second: Ryzer Slash Down_12
+  - first:
+      213: -7713144015875915423
+    second: Ryzer Slash Down_13
+  - first:
+      213: -4410579030649567042
+    second: Ryzer Slash Down_14
+  - first:
+      213: -491157456836569273
+    second: Ryzer Slash Down_15
+  - first:
+      213: -155875371594643576
+    second: Ryzer Slash Down_16
+  - first:
+      213: 2614553052489645692
+    second: Ryzer Slash Down_17
+  - first:
+      213: 8476763823304461292
+    second: Ryzer Slash Down_18
+  - first:
+      213: 3548721282565930937
+    second: Ryzer Slash Down_19
+  - first:
+      213: -9130081312596985496
+    second: Ryzer Slash Down_20
+  - first:
+      213: -5597755832348263086
+    second: Ryzer Slash Down_21
+  - first:
+      213: -5558226661289788657
+    second: Ryzer Slash Down_22
+  - first:
+      213: -6839330971730452647
+    second: Ryzer Slash Down_23
+  - first:
+      213: -1166194036153808213
+    second: Ryzer Slash Down_24
+  - first:
+      213: 5290629908565615587
+    second: Ryzer Slash Down_25
+  - first:
+      213: 5376191921687184348
+    second: Ryzer Slash Down_26
+  - first:
+      213: -8427315765045931454
+    second: Ryzer Slash Down_27
+  - first:
+      213: 1440499915923875190
+    second: Ryzer Slash Down_28
+  - first:
+      213: -7878223424443962576
+    second: Ryzer Slash Down_29
+  - first:
+      213: 4439962023841187920
+    second: Ryzer Slash Down_30
+  - first:
+      213: -2085097385227932365
+    second: Ryzer Slash Down_31
+  - first:
+      213: 571351289109022916
+    second: Ryzer Slash Down_32
+  - first:
+      213: -7579500617786698431
+    second: Ryzer Slash Down_33
+  - first:
+      213: 6667735752135149253
+    second: Ryzer Slash Down_34
+  - first:
+      213: -2269132521409218298
+    second: Ryzer Slash Down_35
+  - first:
+      213: 4302114954241137553
+    second: Ryzer Slash Down_36
+  - first:
+      213: 8536773446411475270
+    second: Ryzer Slash Down_37
+  - first:
+      213: -8449983553374832585
+    second: Ryzer Slash Down_38
+  - first:
+      213: -3137061223056944097
+    second: Ryzer Slash Down_39
+  - first:
+      213: 8227567416772159345
+    second: Ryzer Slash Down_40
+  - first:
+      213: -2293047251629773042
+    second: Ryzer Slash Down_41
+  - first:
+      213: -1418122227650276489
+    second: Ryzer Slash Down_42
+  - first:
+      213: -3469443152865240845
+    second: Ryzer Slash Down_43
+  - first:
+      213: -9022646863130592040
+    second: Ryzer Slash Down_44
+  - first:
+      213: 116564701119031975
+    second: Ryzer Slash Down_45
+  - first:
+      213: -9163326235004439529
+    second: Ryzer Slash Down_46
+  - first:
+      213: -879998777885418381
+    second: Ryzer Slash Down_47
+  - first:
+      213: 5773183221535994624
+    second: Ryzer Slash Down_48
+  - first:
+      213: 1290885810963638460
+    second: Ryzer Slash Down_49
+  - first:
+      213: 2783075461460256233
+    second: Ryzer Slash Down_50
+  - first:
+      213: -210067857391163716
+    second: Ryzer Slash Down_51
+  - first:
+      213: -6109852525177121012
+    second: Ryzer Slash Down_52
+  - first:
+      213: -5697352945486016950
+    second: Ryzer Slash Down_53
+  - first:
+      213: 7456513931481288510
+    second: Ryzer Slash Down_54
+  - first:
+      213: 2384605845291456474
+    second: Ryzer Slash Down_55
+  - first:
+      213: 2222147702704715866
+    second: Ryzer Slash Down_56
+  - first:
+      213: 5500300144098671987
+    second: Ryzer Slash Down_57
+  - first:
+      213: 7348407926715726643
+    second: Ryzer Slash Down_58
+  - first:
+      213: -1491834656908270437
+    second: Ryzer Slash Down_59
+  - first:
+      213: 7358475181582062735
+    second: Ryzer Slash Down_60
+  - first:
+      213: 5053423394424375023
+    second: Ryzer Slash Down_61
+  - first:
+      213: 9203857687338943942
+    second: Ryzer Slash Down_62
+  - first:
+      213: 511457405423020331
+    second: Ryzer Slash Down_63
+  - first:
+      213: 4868858022660282316
+    second: Ryzer Slash Down_64
+  - first:
+      213: -8360279740058873526
+    second: Ryzer Slash Down_65
+  - first:
+      213: 1227862732267485537
+    second: Ryzer Slash Down_66
+  - first:
+      213: 4077599478326259198
+    second: Ryzer Slash Down_67
+  - first:
+      213: 1065363260958832881
+    second: Ryzer Slash Down_68
+  - first:
+      213: -8682186396132746067
+    second: Ryzer Slash Down_69
+  - first:
+      213: 2456014482738578048
+    second: Ryzer Slash Down_70
+  - first:
+      213: 6490612929303962088
+    second: Ryzer Slash Down_71
+  - first:
+      213: 9183352638232310976
+    second: Ryzer Slash Down_72
+  - first:
+      213: -1626044298966818192
+    second: Ryzer Slash Down_73
+  - first:
+      213: -5250608356571951690
+    second: Ryzer Slash Down_74
+  - first:
+      213: 1890831220217312763
+    second: Ryzer Slash Down_75
+  - first:
+      213: 1356596738857107774
+    second: Ryzer Slash Down_76
+  - first:
+      213: -1467626372694844540
+    second: Ryzer Slash Down_77
+  - first:
+      213: 7698156924388787907
+    second: Ryzer Slash Down_78
+  - first:
+      213: -5489607546988126852
+    second: Ryzer Slash Down_79
+  - first:
+      213: -7846112634728046057
+    second: Ryzer Slash Down_80
+  - first:
+      213: -1018444709914258136
+    second: Ryzer Slash Down_81
+  - first:
+      213: 6471069330649025816
+    second: Ryzer Slash Down_82
+  - first:
+      213: -2429634547539961334
+    second: Ryzer Slash Down_83
+  - first:
+      213: -8030645332556432521
+    second: Ryzer Slash Down_84
+  - first:
+      213: 2748981872780806830
+    second: Ryzer Slash Down_85
+  - first:
+      213: -5433204840829854780
+    second: Ryzer Slash Down_86
+  - first:
+      213: 5633167777671011942
+    second: Ryzer Slash Down_87
+  - first:
+      213: -7337014211253095259
+    second: Ryzer Slash Down_88
+  - first:
+      213: -6253825966473714771
+    second: Ryzer Slash Down_89
+  - first:
+      213: -2606680971679790312
+    second: Ryzer Slash Down_90
+  - first:
+      213: -3054363518040287665
+    second: Ryzer Slash Down_91
+  - first:
+      213: -6430005326261818227
+    second: Ryzer Slash Down_92
+  - first:
+      213: -6485641365619744769
+    second: Ryzer Slash Down_93
+  - first:
+      213: 7461412463656494451
+    second: Ryzer Slash Down_94
+  - first:
+      213: -5143325832799886652
+    second: Ryzer Slash Down_95
+  - first:
+      213: -337079896937058757
+    second: Ryzer Slash Down_96
+  - first:
+      213: 6169732007657882777
+    second: Ryzer Slash Down_97
+  - first:
+      213: 2670585927132164395
+    second: Ryzer Slash Down_98
+  - first:
+      213: -8703354752200170884
+    second: Ryzer Slash Down_99
+  - first:
+      213: -4450559536444057960
+    second: Ryzer Slash Down_100
+  - first:
+      213: 4987317248784148417
+    second: Ryzer Slash Down_101
+  - first:
+      213: 4716141395737215967
+    second: Ryzer Slash Down_102
+  - first:
+      213: -6933067189249952201
+    second: Ryzer Slash Down_103
+  - first:
+      213: 1757007035154640138
+    second: Ryzer Slash Down_104
+  - first:
+      213: 8438884191386157316
+    second: Ryzer Slash Down_105
+  - first:
+      213: 3418875273552026893
+    second: Ryzer Slash Down_106
+  - first:
+      213: 2827915327279784689
+    second: Ryzer Slash Down_107
+  - first:
+      213: 8298953005342259413
+    second: Ryzer Slash Down_108
+  - first:
+      213: -7867975045626095142
+    second: Ryzer Slash Down_109
+  - first:
+      213: 1746074842592844169
+    second: Ryzer Slash Down_110
+  - first:
+      213: -13629324775988302
+    second: Ryzer Slash Down_111
+  - first:
+      213: 9220741457169503416
+    second: Ryzer Slash Down_112
+  - first:
+      213: 699559271728035
+    second: Ryzer Slash Down_113
+  - first:
+      213: 5561919954367686126
+    second: Ryzer Slash Down_114
+  - first:
+      213: 3751021531761947352
+    second: Ryzer Slash Down_115
+  - first:
+      213: 8149691256974283307
+    second: Ryzer Slash Down_116
+  - first:
+      213: -8139979578187039849
+    second: Ryzer Slash Down_117
+  - first:
+      213: 5466245576949376373
+    second: Ryzer Slash Down_118
+  - first:
+      213: -5973874750937150326
+    second: Ryzer Slash Down_119
+  - first:
+      213: 8532869960453585004
+    second: Ryzer Slash Down_120
+  - first:
+      213: 8675430787660721079
+    second: Ryzer Slash Down_121
+  - first:
+      213: -2424830779427017225
+    second: Ryzer Slash Down_122
+  - first:
+      213: 207919635631234628
+    second: Ryzer Slash Down_123
+  - first:
+      213: 2312398426245929437
+    second: Ryzer Slash Down_124
+  - first:
+      213: 6256637881653234575
+    second: Ryzer Slash Down_125
+  - first:
+      213: -1630705722523421217
+    second: Ryzer Slash Down_126
+  - first:
+      213: -4373759235506804671
+    second: Ryzer Slash Down_127
+  - first:
+      213: 3609639040907236124
+    second: Ryzer Slash Down_128
+  - first:
+      213: -6203098407042046287
+    second: Ryzer Slash Down_129
+  - first:
+      213: 2644811627014536169
+    second: Ryzer Slash Down_130
+  - first:
+      213: -3969178925362237090
+    second: Ryzer Slash Down_131
+  - first:
+      213: -5334070128088369521
+    second: Ryzer Slash Down_132
+  - first:
+      213: 1483043260988543302
+    second: Ryzer Slash Down_133
+  - first:
+      213: 8365600851778665509
+    second: Ryzer Slash Down_134
+  - first:
+      213: 2526969744570635574
+    second: Ryzer Slash Down_135
+  - first:
+      213: 7231492241537631089
+    second: Ryzer Slash Down_136
+  - first:
+      213: 8209611580639218799
+    second: Ryzer Slash Down_137
+  - first:
+      213: -7350032303286051236
+    second: Ryzer Slash Down_138
+  - first:
+      213: 7505498647716611987
+    second: Ryzer Slash Down_139
+  - first:
+      213: 8239087304133389237
+    second: Ryzer Slash Down_140
+  - first:
+      213: 3219882215295089377
+    second: Ryzer Slash Down_141
+  - first:
+      213: -8133180071033889729
+    second: Ryzer Slash Down_142
+  - first:
+      213: -7077706301541764802
+    second: Ryzer Slash Down_143
+  - first:
+      213: -529024937630652344
+    second: Ryzer Slash Down_144
+  - first:
+      213: 8241139233206745658
+    second: Ryzer Slash Down_145
+  - first:
+      213: 7368200180651097199
+    second: Ryzer Slash Down_146
+  - first:
+      213: 6939117191883202478
+    second: Ryzer Slash Down_147
+  - first:
+      213: 6134471688545369513
+    second: Ryzer Slash Down_148
+  - first:
+      213: 7099865589156677871
+    second: Ryzer Slash Down_149
+  - first:
+      213: 6883241828840632245
+    second: Ryzer Slash Down_150
+  - first:
+      213: 6238597927366082090
+    second: Ryzer Slash Down_151
+  - first:
+      213: -2170027081249917041
+    second: Ryzer Slash Down_152
+  - first:
+      213: -6092679352508149174
+    second: Ryzer Slash Down_153
+  - first:
+      213: 2830968603760057286
+    second: Ryzer Slash Down_154
+  - first:
+      213: 717530075585615944
+    second: Ryzer Slash Down_155
+  - first:
+      213: -2056069163039144841
+    second: Ryzer Slash Down_156
+  - first:
+      213: 4412322224493140297
+    second: Ryzer Slash Down_157
+  - first:
+      213: 3587681573403542404
+    second: Ryzer Slash Down_158
+  - first:
+      213: 761093680421540172
+    second: Ryzer Slash Down_159
+  - first:
+      213: -4035645461547923113
+    second: Ryzer Slash Down_160
+  - first:
+      213: -3195210448158418479
+    second: Ryzer Slash Down_161
+  - first:
+      213: -35683463669805065
+    second: Ryzer Slash Down_162
+  - first:
+      213: 6551823232712929269
+    second: Ryzer Slash Down_163
+  - first:
+      213: 9007736239048528310
+    second: Ryzer Slash Down_164
+  - first:
+      213: 9181248726569276424
+    second: Ryzer Slash Down_165
+  - first:
+      213: -5103021513782970235
+    second: Ryzer Slash Down_166
+  - first:
+      213: 6892391323236502271
+    second: Ryzer Slash Down_167
+  - first:
+      213: 5093181671020736310
+    second: Ryzer Slash Down_168
+  - first:
+      213: 34225590636582642
+    second: Ryzer Slash Down_169
+  - first:
+      213: 4095251567548369277
+    second: Ryzer Slash Down_170
+  - first:
+      213: 389095420082358166
+    second: Ryzer Slash Down_171
+  - first:
+      213: 846864470244439687
+    second: Ryzer Slash Down_172
+  - first:
+      213: -1288028516490135025
+    second: Ryzer Slash Down_173
+  - first:
+      213: 1019783947792118675
+    second: Ryzer Slash Down_174
+  - first:
+      213: 6104956675387311245
+    second: Ryzer Slash Down_175
+  - first:
+      213: 3440117462223787573
+    second: Ryzer Slash Down_176
+  - first:
+      213: 9062384342340409816
+    second: Ryzer Slash Down_177
+  - first:
+      213: -3539949045310938851
+    second: Ryzer Slash Down_178
+  - first:
+      213: -9095117152571373725
+    second: Ryzer Slash Down_179
+  - first:
+      213: 3606105922113481750
+    second: Ryzer Slash Down_180
+  - first:
+      213: -4475075503318703470
+    second: Ryzer Slash Down_181
+  - first:
+      213: 6948553724425119265
+    second: Ryzer Slash Down_182
+  - first:
+      213: -1706724864224308214
+    second: Ryzer Slash Down_183
+  - first:
+      213: -5890328208408976011
+    second: Ryzer Slash Down_184
+  - first:
+      213: -8034976260384100090
+    second: Ryzer Slash Down_185
+  - first:
+      213: 2605727239561038515
+    second: Ryzer Slash Down_186
+  - first:
+      213: 3354888417729377501
+    second: Ryzer Slash Down_187
+  - first:
+      213: -8205082530270784396
+    second: Ryzer Slash Down_188
+  - first:
+      213: -9193838501011716906
+    second: Ryzer Slash Down_189
+  - first:
+      213: -5664740030286850611
+    second: Ryzer Slash Down_190
+  - first:
+      213: -5196472480654895157
+    second: Ryzer Slash Down_191
+  - first:
+      213: -8364185986511370651
+    second: Ryzer Slash Down_192
+  - first:
+      213: -3374847713381419228
+    second: Ryzer Slash Down_193
+  - first:
+      213: 2535321372647100143
+    second: Ryzer Slash Down_194
+  - first:
+      213: 899604733592291713
+    second: Ryzer Slash Down_195
+  - first:
+      213: 3512403677464693060
+    second: Ryzer Slash Down_196
+  - first:
+      213: 6158559235611096998
+    second: Ryzer Slash Down_197
+  - first:
+      213: 3556554064871405710
+    second: Ryzer Slash Down_198
+  - first:
+      213: 1661752880770860302
+    second: Ryzer Slash Down_199
+  - first:
+      213: 9008960406478685919
+    second: Ryzer Slash Down_200
+  - first:
+      213: -5100271038137575822
+    second: Ryzer Slash Down_201
+  - first:
+      213: -3911853732372541097
+    second: Ryzer Slash Down_202
+  - first:
+      213: -2102928998912113538
+    second: Ryzer Slash Down_203
+  - first:
+      213: 2062074248860623329
+    second: Ryzer Slash Down_204
+  - first:
+      213: -7916729391365398996
+    second: Ryzer Slash Down_205
+  - first:
+      213: -7547948576240894199
+    second: Ryzer Slash Down_206
+  - first:
+      213: -4189111611300359765
+    second: Ryzer Slash Down_207
+  - first:
+      213: 5591327521783477035
+    second: Ryzer Slash Down_208
+  - first:
+      213: 2352139392399677658
+    second: Ryzer Slash Down_209
+  - first:
+      213: -6380849769431857105
+    second: Ryzer Slash Down_210
+  - first:
+      213: 4440860848289093019
+    second: Ryzer Slash Down_211
+  - first:
+      213: -584501496794501365
+    second: Ryzer Slash Down_212
+  - first:
+      213: -7834207530967376775
+    second: Ryzer Slash Down_213
+  - first:
+      213: 5558463670263649861
+    second: Ryzer Slash Down_214
+  - first:
+      213: -5582169742749663334
+    second: Ryzer Slash Down_215
+  - first:
+      213: 8037804022169247220
+    second: Ryzer Slash Down_216
+  - first:
+      213: -7495778390916273447
+    second: Ryzer Slash Down_217
+  - first:
+      213: -1999514196876346977
+    second: Ryzer Slash Down_218
+  - first:
+      213: -1602733343605882295
+    second: Ryzer Slash Down_219
+  - first:
+      213: 7700558785580914025
+    second: Ryzer Slash Down_220
+  - first:
+      213: -6056461602090366405
+    second: Ryzer Slash Down_221
+  - first:
+      213: -2668069749024631845
+    second: Ryzer Slash Down_222
+  - first:
+      213: -500010899621499863
+    second: Ryzer Slash Down_223
+  - first:
+      213: 4927297170078066281
+    second: Ryzer Slash Down_224
+  - first:
+      213: 5844107727479284318
+    second: Ryzer Slash Down_225
+  - first:
+      213: -654403256562174147
+    second: Ryzer Slash Down_226
+  - first:
+      213: -122862500741920049
+    second: Ryzer Slash Down_227
+  - first:
+      213: 8655827906286501507
+    second: Ryzer Slash Down_0
+  - first:
+      213: 1902019678811969725
+    second: Ryzer Slash Down_1
+  - first:
+      213: -1327386810674753581
+    second: Ryzer Slash Down_2
+  - first:
+      213: 8357726963318078404
+    second: Ryzer Slash Down_3
+  - first:
+      213: 7156471289297428307
+    second: Ryzer Slash Down_4
+  - first:
+      213: -1181766479203681448
+    second: Ryzer Slash Down_4
+  - first:
+      213: -741194933481486359
+    second: Ryzer Slash Down_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ryzer Slash Down_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3517
+        width: 966
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ebe17ce9daf1870800000000000000
+      internalID: 8655827906286501507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Slash Down_1
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 3621
+        width: 996
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d36f02d4556a10800000000000000
+      internalID: 1902019678811969725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Slash Down_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2141
+        width: 1095
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df413e7abc249de0800000000000000
+      internalID: -1327386810674753581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Slash Down_3
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1724
+        width: 1224
+        height: 1125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb374a546c9cf370800000000000000
+      internalID: 8357726963318078404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Slash Down_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 1573
+        height: 1317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb99ff5a5899fe0800000000000000
+      internalID: -1181766479203681448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

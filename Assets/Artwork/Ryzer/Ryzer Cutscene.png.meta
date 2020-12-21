@@ -1,0 +1,3887 @@
+fileFormatVersion: 2
+guid: 7ef0f88285234f948800e1b7a684c9fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4481595313958243309
+    second: Ryzer Cutscene_0
+  - first:
+      213: -3744974757194592528
+    second: Ryzer Cutscene_1
+  - first:
+      213: 3756740040904348380
+    second: Ryzer Cutscene_2
+  - first:
+      213: 1195143195282667286
+    second: Ryzer Cutscene_3
+  - first:
+      213: -4251981852081993836
+    second: Ryzer Cutscene_4
+  - first:
+      213: 2603818029901318128
+    second: Ryzer Cutscene_5
+  - first:
+      213: -7956478188531481470
+    second: Ryzer Cutscene_6
+  - first:
+      213: 2307670774116680623
+    second: Ryzer Cutscene_7
+  - first:
+      213: 1156241510848292127
+    second: Ryzer Cutscene_8
+  - first:
+      213: -8206315710143743242
+    second: Ryzer Cutscene_9
+  - first:
+      213: -9006423629931677595
+    second: Ryzer Cutscene_10
+  - first:
+      213: 2738783986519433283
+    second: Ryzer Cutscene_11
+  - first:
+      213: -2831402192669359361
+    second: Ryzer Cutscene_12
+  - first:
+      213: -2768722706340343659
+    second: Ryzer Cutscene_13
+  - first:
+      213: 6274188880550993164
+    second: Ryzer Cutscene_14
+  - first:
+      213: -4589289353327427851
+    second: Ryzer Cutscene_15
+  - first:
+      213: 1988315107950481722
+    second: Ryzer Cutscene_16
+  - first:
+      213: 3182848119454899117
+    second: Ryzer Cutscene_17
+  - first:
+      213: -2677009477906288188
+    second: Ryzer Cutscene_18
+  - first:
+      213: -2680285329471776485
+    second: Ryzer Cutscene_19
+  - first:
+      213: 6344136647412184110
+    second: Ryzer Cutscene_20
+  - first:
+      213: 7473806938468959133
+    second: Ryzer Cutscene_21
+  - first:
+      213: 8652230649180613177
+    second: Ryzer Cutscene_22
+  - first:
+      213: 2010339693812549073
+    second: Ryzer Cutscene_23
+  - first:
+      213: -8218886442641152698
+    second: Ryzer Cutscene_24
+  - first:
+      213: 8954951117675709892
+    second: Ryzer Cutscene_25
+  - first:
+      213: -7410875193064040166
+    second: Ryzer Cutscene_26
+  - first:
+      213: 6966894840835665300
+    second: Ryzer Cutscene_27
+  - first:
+      213: -7311351853912289625
+    second: Ryzer Cutscene_28
+  - first:
+      213: 5809342349226543911
+    second: Ryzer Cutscene_29
+  - first:
+      213: 5717432017374341363
+    second: Ryzer Cutscene_30
+  - first:
+      213: 2477251721057233697
+    second: Ryzer Cutscene_31
+  - first:
+      213: -5872446102627317349
+    second: Ryzer Cutscene_32
+  - first:
+      213: 2526846335679607233
+    second: Ryzer Cutscene_33
+  - first:
+      213: -3211654557990960140
+    second: Ryzer Cutscene_34
+  - first:
+      213: 4455070521462222661
+    second: Ryzer Cutscene_35
+  - first:
+      213: 1368014073796681836
+    second: Ryzer Cutscene_36
+  - first:
+      213: -2807619223998236669
+    second: Ryzer Cutscene_37
+  - first:
+      213: 7046483368471157338
+    second: Ryzer Cutscene_38
+  - first:
+      213: -5409591264453932126
+    second: Ryzer Cutscene_39
+  - first:
+      213: -3117855394164953884
+    second: Ryzer Cutscene_40
+  - first:
+      213: 8351802632800579651
+    second: Ryzer Cutscene_41
+  - first:
+      213: -3554597285046760239
+    second: Ryzer Cutscene_42
+  - first:
+      213: 4460270044222122546
+    second: Ryzer Cutscene_43
+  - first:
+      213: 4209470210231854093
+    second: Ryzer Cutscene_44
+  - first:
+      213: -5440465860439462372
+    second: Ryzer Cutscene_45
+  - first:
+      213: -8530252854648269740
+    second: Ryzer Cutscene_46
+  - first:
+      213: 9212757139213263351
+    second: Ryzer Cutscene_47
+  - first:
+      213: -4478086210066806502
+    second: Ryzer Cutscene_48
+  - first:
+      213: 2140537402386742852
+    second: Ryzer Cutscene_49
+  - first:
+      213: -1855766075898600895
+    second: Ryzer Cutscene_50
+  - first:
+      213: -5507634686621972819
+    second: Ryzer Cutscene_51
+  - first:
+      213: -8624799263520740834
+    second: Ryzer Cutscene_52
+  - first:
+      213: -2621539141068106952
+    second: Ryzer Cutscene_53
+  - first:
+      213: -3341628682132195286
+    second: Ryzer Cutscene_54
+  - first:
+      213: -4915033185850150181
+    second: Ryzer Cutscene_55
+  - first:
+      213: 2267205380616761142
+    second: Ryzer Cutscene_56
+  - first:
+      213: -7980670401496187031
+    second: Ryzer Cutscene_57
+  - first:
+      213: 5725404253273395934
+    second: Ryzer Cutscene_58
+  - first:
+      213: -2903590056055865317
+    second: Ryzer Cutscene_59
+  - first:
+      213: 4712545466213752872
+    second: Ryzer Cutscene_60
+  - first:
+      213: -3207294250389426248
+    second: Ryzer Cutscene_61
+  - first:
+      213: -3936678537429017150
+    second: Ryzer Cutscene_62
+  - first:
+      213: 4737002802317327920
+    second: Ryzer Cutscene_63
+  - first:
+      213: -821653161944146545
+    second: Ryzer Cutscene_64
+  - first:
+      213: -5208083841268064040
+    second: Ryzer Cutscene_65
+  - first:
+      213: -6986686780834852815
+    second: Ryzer Cutscene_66
+  - first:
+      213: -2277265890195619451
+    second: Ryzer Cutscene_67
+  - first:
+      213: -4785512329457684866
+    second: Ryzer Cutscene_68
+  - first:
+      213: 7155880231839409796
+    second: Ryzer Cutscene_69
+  - first:
+      213: -8505345425568464503
+    second: Ryzer Cutscene_70
+  - first:
+      213: -5961906724865961498
+    second: Ryzer Cutscene_71
+  - first:
+      213: -2349662385005819483
+    second: Ryzer Cutscene_72
+  - first:
+      213: 5553766000228607027
+    second: Ryzer Cutscene_73
+  - first:
+      213: 6357032198360669684
+    second: Ryzer Cutscene_74
+  - first:
+      213: 9073674910463397317
+    second: Ryzer Cutscene_75
+  - first:
+      213: 8424261841349102602
+    second: Ryzer Cutscene_76
+  - first:
+      213: 6861894884298885920
+    second: Ryzer Cutscene_77
+  - first:
+      213: -5417072055674816881
+    second: Ryzer Cutscene_78
+  - first:
+      213: 5019166928917271040
+    second: Ryzer Cutscene_79
+  - first:
+      213: 6742503212133891932
+    second: Ryzer Cutscene_80
+  - first:
+      213: 3656983237763383459
+    second: Ryzer Cutscene_81
+  - first:
+      213: -7290702586229554088
+    second: Ryzer Cutscene_82
+  - first:
+      213: -1001833922725265371
+    second: Ryzer Cutscene_83
+  - first:
+      213: 5455324670696652208
+    second: Ryzer Cutscene_84
+  - first:
+      213: 3168452081251179621
+    second: Ryzer Cutscene_85
+  - first:
+      213: -6890005222693961342
+    second: Ryzer Cutscene_86
+  - first:
+      213: 8872520494682340760
+    second: Ryzer Cutscene_87
+  - first:
+      213: -6992256673238981334
+    second: Ryzer Cutscene_88
+  - first:
+      213: -863741603674281233
+    second: Ryzer Cutscene_89
+  - first:
+      213: -1607277180208519264
+    second: Ryzer Cutscene_90
+  - first:
+      213: -1643906644565499600
+    second: Ryzer Cutscene_91
+  - first:
+      213: 8787143565433334261
+    second: Ryzer Cutscene_92
+  - first:
+      213: 1183107002116121411
+    second: Ryzer Cutscene_93
+  - first:
+      213: -7713735844457083566
+    second: Ryzer Cutscene_94
+  - first:
+      213: 7842041888876637250
+    second: Ryzer Cutscene_95
+  - first:
+      213: 2547161596875838973
+    second: Ryzer Cutscene_96
+  - first:
+      213: -4607100948148823459
+    second: Ryzer Cutscene_97
+  - first:
+      213: -3968148260350389708
+    second: Ryzer Cutscene_98
+  - first:
+      213: -14953125103662854
+    second: Ryzer Cutscene_99
+  - first:
+      213: 2731931395928070522
+    second: Ryzer Cutscene_100
+  - first:
+      213: 4956997400676108839
+    second: Ryzer Cutscene_101
+  - first:
+      213: 5692201742476349784
+    second: Ryzer Cutscene_102
+  - first:
+      213: 1457911797026901152
+    second: Ryzer Cutscene_103
+  - first:
+      213: -1601759110215327345
+    second: Ryzer Cutscene_104
+  - first:
+      213: -7375968131265964704
+    second: Ryzer Cutscene_105
+  - first:
+      213: 689575375221108057
+    second: Ryzer Cutscene_106
+  - first:
+      213: 8884475910676288184
+    second: Ryzer Cutscene_107
+  - first:
+      213: -6703112180743090453
+    second: Ryzer Cutscene_108
+  - first:
+      213: 694793523934663359
+    second: Ryzer Cutscene_109
+  - first:
+      213: 3867072158951409811
+    second: Ryzer Cutscene_110
+  - first:
+      213: 3883797859756286048
+    second: Ryzer Cutscene_111
+  - first:
+      213: 5850558661339572234
+    second: Ryzer Cutscene_112
+  - first:
+      213: 4624123072263702749
+    second: Ryzer Cutscene_113
+  - first:
+      213: -2818632161186492953
+    second: Ryzer Cutscene_114
+  - first:
+      213: -6787611853749797202
+    second: Ryzer Cutscene_115
+  - first:
+      213: 4195319588348221323
+    second: Ryzer Cutscene_116
+  - first:
+      213: 1191723873511237775
+    second: Ryzer Cutscene_117
+  - first:
+      213: -3563008095520155484
+    second: Ryzer Cutscene_118
+  - first:
+      213: 6433252844617072383
+    second: Ryzer Cutscene_119
+  - first:
+      213: 812226410749892871
+    second: Ryzer Cutscene_120
+  - first:
+      213: -925278461575672408
+    second: Ryzer Cutscene_121
+  - first:
+      213: -3751584605470343523
+    second: Ryzer Cutscene_122
+  - first:
+      213: -5957816610116675039
+    second: Ryzer Cutscene_123
+  - first:
+      213: -3872424743589946576
+    second: Ryzer Cutscene_124
+  - first:
+      213: -2648467555373707672
+    second: Ryzer Cutscene_125
+  - first:
+      213: -7838466489367530780
+    second: Ryzer Cutscene_126
+  - first:
+      213: 2469085651424632660
+    second: Ryzer Cutscene_127
+  - first:
+      213: 8743074670070633694
+    second: Ryzer Cutscene_128
+  - first:
+      213: -7017452421569150718
+    second: Ryzer Cutscene_129
+  - first:
+      213: -2214587212822029539
+    second: Ryzer Cutscene_130
+  - first:
+      213: -8880339922116485975
+    second: Ryzer Cutscene_131
+  - first:
+      213: -7473173673256777704
+    second: Ryzer Cutscene_132
+  - first:
+      213: -5430401091902012207
+    second: Ryzer Cutscene_133
+  - first:
+      213: -4124906106934943847
+    second: Ryzer Cutscene_134
+  - first:
+      213: 9095421506823827002
+    second: Ryzer Cutscene_135
+  - first:
+      213: 9033294772321357991
+    second: Ryzer Cutscene_136
+  - first:
+      213: -6068350852434613755
+    second: Ryzer Cutscene_137
+  - first:
+      213: 4381525987453900998
+    second: Ryzer Cutscene_138
+  - first:
+      213: 2468887001571328947
+    second: Ryzer Cutscene_139
+  - first:
+      213: -7296854520141062611
+    second: Ryzer Cutscene_140
+  - first:
+      213: 6762397512108935081
+    second: Ryzer Cutscene_141
+  - first:
+      213: 2181280564096057216
+    second: Ryzer Cutscene_142
+  - first:
+      213: -2560573707758305752
+    second: Ryzer Cutscene_143
+  - first:
+      213: -3966212256728570557
+    second: Ryzer Cutscene_144
+  - first:
+      213: -4114778953273077205
+    second: Ryzer Cutscene_145
+  - first:
+      213: 6528094068267152209
+    second: Ryzer Cutscene_146
+  - first:
+      213: -4195463613831696422
+    second: Ryzer Cutscene_147
+  - first:
+      213: -7315711646153845847
+    second: Ryzer Cutscene_148
+  - first:
+      213: -4387479414918228138
+    second: Ryzer Cutscene_149
+  - first:
+      213: 7906915432176600783
+    second: Ryzer Cutscene_150
+  - first:
+      213: 5069569327816082606
+    second: Ryzer Cutscene_151
+  - first:
+      213: -7404502124003308453
+    second: Ryzer Cutscene_152
+  - first:
+      213: 1188009853333894373
+    second: Ryzer Cutscene_153
+  - first:
+      213: 2994122919951615719
+    second: Ryzer Cutscene_154
+  - first:
+      213: -2243401154386008808
+    second: Ryzer Cutscene_155
+  - first:
+      213: -832354911531508454
+    second: Ryzer Cutscene_156
+  - first:
+      213: 5566024837293102822
+    second: Ryzer Cutscene_157
+  - first:
+      213: 716133432400578290
+    second: Ryzer Cutscene_158
+  - first:
+      213: -999900103085481832
+    second: Ryzer Cutscene_159
+  - first:
+      213: -7382920278094508876
+    second: Ryzer Cutscene_160
+  - first:
+      213: 3556729363105601128
+    second: Ryzer Cutscene_161
+  - first:
+      213: -5558128562093504906
+    second: Ryzer Cutscene_162
+  - first:
+      213: -4542111660940808213
+    second: Ryzer Cutscene_163
+  - first:
+      213: -1313918994230481685
+    second: Ryzer Cutscene_164
+  - first:
+      213: -5861944470154355788
+    second: Ryzer Cutscene_165
+  - first:
+      213: -2579111707558831268
+    second: Ryzer Cutscene_166
+  - first:
+      213: -3026876426443582104
+    second: Ryzer Cutscene_167
+  - first:
+      213: -2436484653077686616
+    second: Ryzer Cutscene_168
+  - first:
+      213: 2822416898373058549
+    second: Ryzer Cutscene_169
+  - first:
+      213: -7251140179910573200
+    second: Ryzer Cutscene_170
+  - first:
+      213: 2086372223239190990
+    second: Ryzer Cutscene_171
+  - first:
+      213: 4849621563952634571
+    second: Ryzer Cutscene_172
+  - first:
+      213: -407701336472564901
+    second: Ryzer Cutscene_173
+  - first:
+      213: -2048673943198650114
+    second: Ryzer Cutscene_174
+  - first:
+      213: 1942461171470113080
+    second: Ryzer Cutscene_175
+  - first:
+      213: -8067807694741239730
+    second: Ryzer Cutscene_176
+  - first:
+      213: -1706695780498681343
+    second: Ryzer Cutscene_177
+  - first:
+      213: 2120259531969007706
+    second: Ryzer Cutscene_178
+  - first:
+      213: 2032244712244507514
+    second: Ryzer Cutscene_179
+  - first:
+      213: 5383164965670344699
+    second: Ryzer Cutscene_180
+  - first:
+      213: 4132487700108495435
+    second: Ryzer Cutscene_181
+  - first:
+      213: 8840974863907756653
+    second: Ryzer Cutscene_182
+  - first:
+      213: -1238051491067619328
+    second: Ryzer Cutscene_183
+  - first:
+      213: -3993873843006550398
+    second: Ryzer Cutscene_184
+  - first:
+      213: 3371019531525744022
+    second: Ryzer Cutscene_185
+  - first:
+      213: -4632295969166696490
+    second: Ryzer Cutscene_186
+  - first:
+      213: -4782720639778331184
+    second: Ryzer Cutscene_187
+  - first:
+      213: 6476684307307024013
+    second: Ryzer Cutscene_188
+  - first:
+      213: 1164981612986693081
+    second: Ryzer Cutscene_189
+  - first:
+      213: -8697898117162575067
+    second: Ryzer Cutscene_190
+  - first:
+      213: 2307817458780468480
+    second: Ryzer Cutscene_191
+  - first:
+      213: 6186553833191700266
+    second: Ryzer Cutscene_192
+  - first:
+      213: -2406122920571159212
+    second: Ryzer Cutscene_193
+  - first:
+      213: -5056485937759635335
+    second: Ryzer Cutscene_194
+  - first:
+      213: 6823614589663709838
+    second: Ryzer Cutscene_195
+  - first:
+      213: -1161252860682211277
+    second: Ryzer Cutscene_196
+  - first:
+      213: -7495846363820781148
+    second: Ryzer Cutscene_197
+  - first:
+      213: -6087812271397149181
+    second: Ryzer Cutscene_198
+  - first:
+      213: -239520184619898739
+    second: Ryzer Cutscene_199
+  - first:
+      213: -1746628189965338807
+    second: Ryzer Cutscene_200
+  - first:
+      213: -2987044913484022840
+    second: Ryzer Cutscene_201
+  - first:
+      213: 284640925752453310
+    second: Ryzer Cutscene_202
+  - first:
+      213: -3348965078977527406
+    second: Ryzer Cutscene_203
+  - first:
+      213: -8499431432528547568
+    second: Ryzer Cutscene_204
+  - first:
+      213: -884524529475202068
+    second: Ryzer Cutscene_205
+  - first:
+      213: -3481334725732714746
+    second: Ryzer Cutscene_206
+  - first:
+      213: 4722836748680509315
+    second: Ryzer Cutscene_207
+  - first:
+      213: 8758666795373981659
+    second: Ryzer Cutscene_208
+  - first:
+      213: -1175112516814803996
+    second: Ryzer Cutscene_209
+  - first:
+      213: 3886897444718910259
+    second: Ryzer Cutscene_210
+  - first:
+      213: -7310878568405663109
+    second: Ryzer Cutscene_211
+  - first:
+      213: 3128960701023188761
+    second: Ryzer Cutscene_212
+  - first:
+      213: 3279377749609659315
+    second: Ryzer Cutscene_213
+  - first:
+      213: -6092155812638273230
+    second: Ryzer Cutscene_214
+  - first:
+      213: -6486131798500190120
+    second: Ryzer Cutscene_215
+  - first:
+      213: 4759102084503674591
+    second: Ryzer Cutscene_216
+  - first:
+      213: 797665287010580080
+    second: Ryzer Cutscene_217
+  - first:
+      213: -5490777824065336810
+    second: Ryzer Cutscene_218
+  - first:
+      213: 602608449875093779
+    second: Ryzer Cutscene_219
+  - first:
+      213: -8570532394085985159
+    second: Ryzer Cutscene_220
+  - first:
+      213: -4076625075141896560
+    second: Ryzer Cutscene_221
+  - first:
+      213: -6855157739570708012
+    second: Ryzer Cutscene_222
+  - first:
+      213: -3629074013657393080
+    second: Ryzer Cutscene_223
+  - first:
+      213: -2607828398803080067
+    second: Ryzer Cutscene_224
+  - first:
+      213: -1212413631797207622
+    second: Ryzer Cutscene_225
+  - first:
+      213: -3532998224293928434
+    second: Ryzer Cutscene_226
+  - first:
+      213: -6375977751032762549
+    second: Ryzer Cutscene_227
+  - first:
+      213: -5778275156564974352
+    second: Ryzer Cutscene_228
+  - first:
+      213: -2930736308457440338
+    second: Ryzer Cutscene_229
+  - first:
+      213: 5416967715725077398
+    second: Ryzer Cutscene_230
+  - first:
+      213: -7552496671359411786
+    second: Ryzer Cutscene_231
+  - first:
+      213: 4059960726979432635
+    second: Ryzer Cutscene_232
+  - first:
+      213: 1115256689158440971
+    second: Ryzer Cutscene_233
+  - first:
+      213: -842931760398497102
+    second: Ryzer Cutscene_234
+  - first:
+      213: 452948766345110467
+    second: Ryzer Cutscene_235
+  - first:
+      213: 6885582399923282245
+    second: Ryzer Cutscene_236
+  - first:
+      213: -4573354624594814771
+    second: Ryzer Cutscene_237
+  - first:
+      213: 8295854250612374006
+    second: Ryzer Cutscene_238
+  - first:
+      213: 524383597046190483
+    second: Ryzer Cutscene_239
+  - first:
+      213: -6963691045684987998
+    second: Ryzer Cutscene_240
+  - first:
+      213: -1373744627434294094
+    second: Ryzer Cutscene_241
+  - first:
+      213: -3029487073662391157
+    second: Ryzer Cutscene_242
+  - first:
+      213: -3327813623684880160
+    second: Ryzer Cutscene_243
+  - first:
+      213: -4998795837084044675
+    second: Ryzer Cutscene_244
+  - first:
+      213: 8415771283253212532
+    second: Ryzer Cutscene_245
+  - first:
+      213: 2323120317278100789
+    second: Ryzer Cutscene_246
+  - first:
+      213: 5747896890922004226
+    second: Ryzer Cutscene_247
+  - first:
+      213: -6224899393937447584
+    second: Ryzer Cutscene_248
+  - first:
+      213: 7316810631558819957
+    second: Ryzer Cutscene_249
+  - first:
+      213: 7197903041866118580
+    second: Ryzer Cutscene_250
+  - first:
+      213: -1554682469895224930
+    second: Ryzer Cutscene_251
+  - first:
+      213: 4917983681034652833
+    second: Ryzer Cutscene_252
+  - first:
+      213: -5150225067904252129
+    second: Ryzer Cutscene_253
+  - first:
+      213: -1926010534510540465
+    second: Ryzer Cutscene_254
+  - first:
+      213: -1786839230191578182
+    second: Ryzer Cutscene_255
+  - first:
+      213: 8232846702133424210
+    second: Ryzer Cutscene_256
+  - first:
+      213: 8516955671459603764
+    second: Ryzer Cutscene_257
+  - first:
+      213: -1447956140861275711
+    second: Ryzer Cutscene_258
+  - first:
+      213: 2771421600056940226
+    second: Ryzer Cutscene_259
+  - first:
+      213: -6322639369692423446
+    second: Ryzer Cutscene_260
+  - first:
+      213: -3152058719806572577
+    second: Ryzer Cutscene_261
+  - first:
+      213: -3619238628387458345
+    second: Ryzer Cutscene_262
+  - first:
+      213: 8104925041911400906
+    second: Ryzer Cutscene_263
+  - first:
+      213: -6037610459558492882
+    second: Ryzer Cutscene_264
+  - first:
+      213: 5960431679487433351
+    second: Ryzer Cutscene_265
+  - first:
+      213: 7185132091995566297
+    second: Ryzer Cutscene_266
+  - first:
+      213: 467617427218764585
+    second: Ryzer Cutscene_267
+  - first:
+      213: 1258076155525344826
+    second: Ryzer Cutscene_268
+  - first:
+      213: 3914529176968742273
+    second: Ryzer Cutscene_269
+  - first:
+      213: -7277456784330871943
+    second: Ryzer Cutscene_270
+  - first:
+      213: -5291763619050513885
+    second: Ryzer Cutscene_271
+  - first:
+      213: 198724102861326991
+    second: Ryzer Cutscene_272
+  - first:
+      213: 2825007203393199419
+    second: Ryzer Cutscene_273
+  - first:
+      213: 8289134061926193289
+    second: Ryzer Cutscene_274
+  - first:
+      213: -2416306686234984246
+    second: Ryzer Cutscene_275
+  - first:
+      213: -6092199865178279883
+    second: Ryzer Cutscene_276
+  - first:
+      213: 635328819902343313
+    second: Ryzer Cutscene_277
+  - first:
+      213: -5525478650898800262
+    second: Ryzer Cutscene_278
+  - first:
+      213: 4355826285420015507
+    second: Ryzer Cutscene_279
+  - first:
+      213: -8690550958498770307
+    second: Ryzer Cutscene_280
+  - first:
+      213: -5624280101695692012
+    second: Ryzer Cutscene_281
+  - first:
+      213: -7510673141630002211
+    second: Ryzer Cutscene_282
+  - first:
+      213: -4119179600130087196
+    second: Ryzer Cutscene_283
+  - first:
+      213: -4822146700299011094
+    second: Ryzer Cutscene_284
+  - first:
+      213: 1400748598410852911
+    second: Ryzer Cutscene_285
+  - first:
+      213: -3007877600356200395
+    second: Ryzer Cutscene_286
+  - first:
+      213: 2028436138469196345
+    second: Ryzer Cutscene_287
+  - first:
+      213: -2638514902394821773
+    second: Ryzer Cutscene_288
+  - first:
+      213: 5401370771654175887
+    second: Ryzer Cutscene_289
+  - first:
+      213: 4648833281615082690
+    second: Ryzer Cutscene_290
+  - first:
+      213: -8013638926382869944
+    second: Ryzer Cutscene_291
+  - first:
+      213: 1514412339957668977
+    second: Ryzer Cutscene_292
+  - first:
+      213: 7636073264203808338
+    second: Ryzer Cutscene_293
+  - first:
+      213: -2184661468083341920
+    second: Ryzer Cutscene_294
+  - first:
+      213: 6778990919302990920
+    second: Ryzer Cutscene_295
+  - first:
+      213: -6826481176731271407
+    second: Ryzer Cutscene_296
+  - first:
+      213: -5313708619710361574
+    second: Ryzer Cutscene_297
+  - first:
+      213: 4109676310772754303
+    second: Ryzer Cutscene_298
+  - first:
+      213: 6778407680672906934
+    second: Ryzer Cutscene_299
+  - first:
+      213: 7531150708045766198
+    second: Ryzer Cutscene_300
+  - first:
+      213: 4483141685361912103
+    second: Ryzer Cutscene_301
+  - first:
+      213: -4632846792207429515
+    second: Ryzer Cutscene_302
+  - first:
+      213: -7954177041724720613
+    second: Ryzer Cutscene_303
+  - first:
+      213: -6728791803761407561
+    second: Ryzer Cutscene_304
+  - first:
+      213: 3767295374184929547
+    second: Ryzer Cutscene_305
+  - first:
+      213: 4181907234664215843
+    second: Ryzer Cutscene_306
+  - first:
+      213: 3612854552463890481
+    second: Ryzer Cutscene_307
+  - first:
+      213: 5165232708965811537
+    second: Ryzer Cutscene_308
+  - first:
+      213: 3200484758267203234
+    second: Ryzer Cutscene_309
+  - first:
+      213: -4517707394229099122
+    second: Ryzer Cutscene_310
+  - first:
+      213: -847017258384027887
+    second: Ryzer Cutscene_311
+  - first:
+      213: 7034206992770554648
+    second: Ryzer Cutscene_312
+  - first:
+      213: -8735269387887039609
+    second: Ryzer Cutscene_313
+  - first:
+      213: 8500053719165733321
+    second: Ryzer Cutscene_314
+  - first:
+      213: 8597454124740030425
+    second: Ryzer Cutscene_315
+  - first:
+      213: 2011004557407155279
+    second: Ryzer Cutscene_316
+  - first:
+      213: 1109321751944209908
+    second: Ryzer Cutscene_317
+  - first:
+      213: -277466248942367903
+    second: Ryzer Cutscene_318
+  - first:
+      213: 1369703656108450872
+    second: Ryzer Cutscene_319
+  - first:
+      213: -3093205917044535903
+    second: Ryzer Cutscene_320
+  - first:
+      213: 7436766889917198819
+    second: Ryzer Cutscene_321
+  - first:
+      213: 5776898446411396706
+    second: Ryzer Cutscene_322
+  - first:
+      213: 6782915881710953147
+    second: Ryzer Cutscene_323
+  - first:
+      213: -7032338322531428821
+    second: Ryzer Cutscene_324
+  - first:
+      213: 4743874190173347750
+    second: Ryzer Cutscene_325
+  - first:
+      213: 6216783632632589870
+    second: Ryzer Cutscene_326
+  - first:
+      213: 5635502754372246577
+    second: Ryzer Cutscene_327
+  - first:
+      213: -5238462291486466591
+    second: Ryzer Cutscene_328
+  - first:
+      213: 2835821043654743907
+    second: Ryzer Cutscene_329
+  - first:
+      213: -3028762087239030171
+    second: Ryzer Cutscene_330
+  - first:
+      213: -8697262221745897030
+    second: Ryzer Cutscene_331
+  - first:
+      213: -6187922178990498322
+    second: Ryzer Cutscene_332
+  - first:
+      213: -4972592829266470147
+    second: Ryzer Cutscene_333
+  - first:
+      213: 8619921281543577703
+    second: Ryzer Cutscene_334
+  - first:
+      213: -4059903543953035823
+    second: Ryzer Cutscene_335
+  - first:
+      213: -7347686689290949104
+    second: Ryzer Cutscene_336
+  - first:
+      213: -7296025424290010140
+    second: Ryzer Cutscene_337
+  - first:
+      213: 5944147448070991081
+    second: Ryzer Cutscene_338
+  - first:
+      213: -3515365009652943628
+    second: Ryzer Cutscene_339
+  - first:
+      213: -3644788503166584488
+    second: Ryzer Cutscene_340
+  - first:
+      213: -6742091083619300790
+    second: Ryzer Cutscene_341
+  - first:
+      213: -1849311184423118059
+    second: Ryzer Cutscene_342
+  - first:
+      213: 7604562376243960205
+    second: Ryzer Cutscene_343
+  - first:
+      213: -8587678565533598311
+    second: Ryzer Cutscene_344
+  - first:
+      213: 1954387752190924339
+    second: Ryzer Cutscene_345
+  - first:
+      213: 6011006475418807236
+    second: Ryzer Cutscene_346
+  - first:
+      213: 4303462502078834132
+    second: Ryzer Cutscene_347
+  - first:
+      213: -92840525770281887
+    second: Ryzer Cutscene_348
+  - first:
+      213: -2049881234746856465
+    second: Ryzer Cutscene_349
+  - first:
+      213: 6116732880599573281
+    second: Ryzer Cutscene_350
+  - first:
+      213: -5754535099495387761
+    second: Ryzer Cutscene_351
+  - first:
+      213: -4017740481267317423
+    second: Ryzer Cutscene_352
+  - first:
+      213: 373859613956223418
+    second: Ryzer Cutscene_353
+  - first:
+      213: -4039447545104765654
+    second: Ryzer Cutscene_354
+  - first:
+      213: 5941967912845946271
+    second: Ryzer Cutscene_355
+  - first:
+      213: 7607721654766961427
+    second: Ryzer Cutscene_356
+  - first:
+      213: 1736021442339134501
+    second: Ryzer Cutscene_357
+  - first:
+      213: -1086686544194535655
+    second: Ryzer Cutscene_358
+  - first:
+      213: -621670230648193569
+    second: Ryzer Cutscene_359
+  - first:
+      213: -8726038016040818879
+    second: Ryzer Cutscene_360
+  - first:
+      213: -3456934466578847657
+    second: Ryzer Cutscene_361
+  - first:
+      213: -4739786061909078616
+    second: Ryzer Cutscene_362
+  - first:
+      213: 8850961871639388020
+    second: Ryzer Cutscene_363
+  - first:
+      213: 5398704571556184333
+    second: Ryzer Cutscene_364
+  - first:
+      213: -5755548531150074530
+    second: Ryzer Cutscene_365
+  - first:
+      213: 8189503856123516396
+    second: Ryzer Cutscene_366
+  - first:
+      213: -9116686220054663417
+    second: Ryzer Cutscene_367
+  - first:
+      213: 8348381416012297178
+    second: Ryzer Cutscene_368
+  - first:
+      213: 3568343050927370231
+    second: Ryzer Cutscene_369
+  - first:
+      213: 927642709545016736
+    second: Ryzer Cutscene_370
+  - first:
+      213: -8729744010421859723
+    second: Ryzer Cutscene_371
+  - first:
+      213: -7776892734868187741
+    second: Ryzer Cutscene_372
+  - first:
+      213: -3744796239500528131
+    second: Ryzer Cutscene_373
+  - first:
+      213: -151085262874281913
+    second: Ryzer Cutscene_374
+  - first:
+      213: -3527097208517182899
+    second: Ryzer Cutscene_375
+  - first:
+      213: -3981648946425965468
+    second: Ryzer Cutscene_376
+  - first:
+      213: 5824031837013784760
+    second: Ryzer Cutscene_377
+  - first:
+      213: -5401954223581323127
+    second: Ryzer Cutscene_378
+  - first:
+      213: -7022063755899411963
+    second: Ryzer Cutscene_379
+  - first:
+      213: 4611217876887387557
+    second: Ryzer Cutscene_380
+  - first:
+      213: -8499002958004824099
+    second: Ryzer Cutscene_381
+  - first:
+      213: -71833660210897725
+    second: Ryzer Cutscene_382
+  - first:
+      213: -1431570333715068696
+    second: Ryzer Cutscene_383
+  - first:
+      213: -3025720542219315581
+    second: Ryzer Cutscene_384
+  - first:
+      213: 3053185907300285329
+    second: Ryzer Cutscene_385
+  - first:
+      213: -3791764592561101580
+    second: Ryzer Cutscene_386
+  - first:
+      213: 8879898756247594413
+    second: Ryzer Cutscene_387
+  - first:
+      213: 308698875743016638
+    second: Ryzer Cutscene_388
+  - first:
+      213: -1882361983955829933
+    second: Ryzer Cutscene_389
+  - first:
+      213: -828902740884615477
+    second: Ryzer Cutscene_390
+  - first:
+      213: -4883795284090147834
+    second: Ryzer Cutscene_391
+  - first:
+      213: 2499921027642732561
+    second: Ryzer Cutscene_392
+  - first:
+      213: 3286109770196170353
+    second: Ryzer Cutscene_393
+  - first:
+      213: -27167624114839889
+    second: Ryzer Cutscene_394
+  - first:
+      213: -83794045392120893
+    second: Ryzer Cutscene_395
+  - first:
+      213: 3871758215412219327
+    second: Ryzer Cutscene_396
+  - first:
+      213: 4290828390660245414
+    second: Ryzer Cutscene_397
+  - first:
+      213: -4204242658077641867
+    second: Ryzer Cutscene_398
+  - first:
+      213: 8163247359984524694
+    second: Ryzer Cutscene_399
+  - first:
+      213: 7721891629308908118
+    second: Ryzer Cutscene_400
+  - first:
+      213: -4042488087766821352
+    second: Ryzer Cutscene_401
+  - first:
+      213: -3339632536840276214
+    second: Ryzer Cutscene_402
+  - first:
+      213: -450003513113835601
+    second: Ryzer Cutscene_403
+  - first:
+      213: 8825616952456964615
+    second: Ryzer Cutscene_404
+  - first:
+      213: -8745875789787720673
+    second: Ryzer Cutscene_405
+  - first:
+      213: 6648056713739736024
+    second: Ryzer Cutscene_406
+  - first:
+      213: -5118337031355336663
+    second: Ryzer Cutscene_407
+  - first:
+      213: -740482770152854516
+    second: Ryzer Cutscene_408
+  - first:
+      213: 6364238055695502578
+    second: Ryzer Cutscene_409
+  - first:
+      213: -2251798304739880233
+    second: Ryzer Cutscene_410
+  - first:
+      213: -2115509149241877335
+    second: Ryzer Cutscene_411
+  - first:
+      213: -5165940623043263152
+    second: Ryzer Cutscene_412
+  - first:
+      213: -5211223926684491635
+    second: Ryzer Cutscene_413
+  - first:
+      213: 9078408092985533180
+    second: Ryzer Cutscene_414
+  - first:
+      213: -884245498300368118
+    second: Ryzer Cutscene_415
+  - first:
+      213: -2897204995136570316
+    second: Ryzer Cutscene_416
+  - first:
+      213: 3971191500834628285
+    second: Ryzer Cutscene_417
+  - first:
+      213: 432770362969042834
+    second: Ryzer Cutscene_418
+  - first:
+      213: -6730736062671764848
+    second: Ryzer Cutscene_419
+  - first:
+      213: 1532091155086276147
+    second: Ryzer Cutscene_420
+  - first:
+      213: -5608059657745534364
+    second: Ryzer Cutscene_421
+  - first:
+      213: -9106908195947928714
+    second: Ryzer Cutscene_422
+  - first:
+      213: -2303645607087885841
+    second: Ryzer Cutscene_423
+  - first:
+      213: 867804483829711729
+    second: Ryzer Cutscene_424
+  - first:
+      213: 7540409636769154909
+    second: Ryzer Cutscene_425
+  - first:
+      213: 7141778181477106084
+    second: Ryzer Cutscene_426
+  - first:
+      213: 2826156196816395564
+    second: Ryzer Cutscene_427
+  - first:
+      213: -7518707988252567786
+    second: Ryzer Cutscene_428
+  - first:
+      213: -7872079185122470141
+    second: Ryzer Cutscene_429
+  - first:
+      213: 2134199225062519119
+    second: Ryzer Cutscene_430
+  - first:
+      213: -8594974552239517767
+    second: Ryzer Cutscene_431
+  - first:
+      213: -3491598919463252398
+    second: Ryzer Cutscene_432
+  - first:
+      213: 8026879296721849568
+    second: Ryzer Cutscene_433
+  - first:
+      213: 1990266768298131375
+    second: Ryzer Cutscene_434
+  - first:
+      213: -6981289537278391692
+    second: Ryzer Cutscene_435
+  - first:
+      213: -810082323388638592
+    second: Ryzer Cutscene_436
+  - first:
+      213: -8695968286430173300
+    second: Ryzer Cutscene_437
+  - first:
+      213: -2621061022462176642
+    second: Ryzer Cutscene_438
+  - first:
+      213: -2393291479209985161
+    second: Ryzer Cutscene_439
+  - first:
+      213: 7562126900209007421
+    second: Ryzer Cutscene_440
+  - first:
+      213: 4024919085571094950
+    second: Ryzer Cutscene_441
+  - first:
+      213: -4087394597793234206
+    second: Ryzer Cutscene_442
+  - first:
+      213: -6513878249159780290
+    second: Ryzer Cutscene_443
+  - first:
+      213: 8026430010862509807
+    second: Ryzer Cutscene_444
+  - first:
+      213: 8264533941296410750
+    second: Ryzer Cutscene_445
+  - first:
+      213: -5972736418811727365
+    second: Ryzer Cutscene_446
+  - first:
+      213: 4104882676061297579
+    second: Ryzer Cutscene_447
+  - first:
+      213: 8698840861493356383
+    second: Ryzer Cutscene_448
+  - first:
+      213: -5224260658050522648
+    second: Ryzer Cutscene_449
+  - first:
+      213: 8120006320967879538
+    second: Ryzer Cutscene_450
+  - first:
+      213: -5436119020145109374
+    second: Ryzer Cutscene_451
+  - first:
+      213: -5723814122013656250
+    second: Ryzer Cutscene_452
+  - first:
+      213: -5036302043181844779
+    second: Ryzer Cutscene_453
+  - first:
+      213: -5820969777316850403
+    second: Ryzer Cutscene_454
+  - first:
+      213: 898100041659402359
+    second: Ryzer Cutscene_455
+  - first:
+      213: 8697246395891903675
+    second: Ryzer Cutscene_456
+  - first:
+      213: -202999717322690865
+    second: Ryzer Cutscene_457
+  - first:
+      213: -5680085337673717312
+    second: Ryzer Cutscene_458
+  - first:
+      213: 4658712992472980623
+    second: Ryzer Cutscene_459
+  - first:
+      213: -7649505172420149852
+    second: Ryzer Cutscene_460
+  - first:
+      213: -1660201806002013315
+    second: Ryzer Cutscene_461
+  - first:
+      213: -6766081928148525247
+    second: Ryzer Cutscene_462
+  - first:
+      213: 7135663605101324675
+    second: Ryzer Cutscene_463
+  - first:
+      213: 2376484096380084737
+    second: Ryzer Cutscene_464
+  - first:
+      213: -3787372596716564627
+    second: Ryzer Cutscene_465
+  - first:
+      213: -2484103003158070660
+    second: Ryzer Cutscene_466
+  - first:
+      213: -7057514327565281378
+    second: Ryzer Cutscene_467
+  - first:
+      213: 5112839402328604332
+    second: Ryzer Cutscene_468
+  - first:
+      213: -8915118262436898980
+    second: Ryzer Cutscene_469
+  - first:
+      213: 1049421694389329751
+    second: Ryzer Cutscene_470
+  - first:
+      213: -1690611814618665173
+    second: Ryzer Cutscene_471
+  - first:
+      213: -8018200104711094296
+    second: Ryzer Cutscene_472
+  - first:
+      213: 1750911082910410727
+    second: Ryzer Cutscene_473
+  - first:
+      213: 3788218318380114188
+    second: Ryzer Cutscene_474
+  - first:
+      213: -5377918599312638561
+    second: Ryzer Cutscene_475
+  - first:
+      213: -8475198145547945754
+    second: Ryzer Cutscene_476
+  - first:
+      213: 989537249662057327
+    second: Ryzer Cutscene_477
+  - first:
+      213: -3506177509369773406
+    second: Ryzer Cutscene_478
+  - first:
+      213: 2140834315772647623
+    second: Ryzer Cutscene_479
+  - first:
+      213: -6521317993543680886
+    second: Ryzer Cutscene_480
+  - first:
+      213: -1696231934378229988
+    second: Ryzer Cutscene_481
+  - first:
+      213: -2638496016827426720
+    second: Ryzer Cutscene_482
+  - first:
+      213: -6233359067251973923
+    second: Ryzer Cutscene_483
+  - first:
+      213: -1335095863172356530
+    second: Ryzer Cutscene_484
+  - first:
+      213: 6099780385007980521
+    second: Ryzer Cutscene_485
+  - first:
+      213: 3090757307679914614
+    second: Ryzer Cutscene_486
+  - first:
+      213: -6486751275777927414
+    second: Ryzer Cutscene_487
+  - first:
+      213: 2745305364857910209
+    second: Ryzer Cutscene_488
+  - first:
+      213: 853837755623169546
+    second: Ryzer Cutscene_489
+  - first:
+      213: -3769812429742218565
+    second: Ryzer Cutscene_490
+  - first:
+      213: 102859711097954694
+    second: Ryzer Cutscene_491
+  - first:
+      213: 599515250045308076
+    second: Ryzer Cutscene_492
+  - first:
+      213: -8312647379426441686
+    second: Ryzer Cutscene_493
+  - first:
+      213: -8004761632405845915
+    second: Ryzer Cutscene_494
+  - first:
+      213: 6870540331614504850
+    second: Ryzer Cutscene_495
+  - first:
+      213: -5875252797150482167
+    second: Ryzer Cutscene_496
+  - first:
+      213: -6202214837370308888
+    second: Ryzer Cutscene_497
+  - first:
+      213: 5652240758805773269
+    second: Ryzer Cutscene_498
+  - first:
+      213: -6229448868067772876
+    second: Ryzer Cutscene_499
+  - first:
+      213: 1701467039408467520
+    second: Ryzer Cutscene_500
+  - first:
+      213: -4039270543693123576
+    second: Ryzer Cutscene_501
+  - first:
+      213: -7348077211468551011
+    second: Ryzer Cutscene_502
+  - first:
+      213: -7501241552176153741
+    second: Ryzer Cutscene_503
+  - first:
+      213: -1118409308744251462
+    second: Ryzer Cutscene_504
+  - first:
+      213: -3614005680693130024
+    second: Ryzer Cutscene_505
+  - first:
+      213: 1757062155106165921
+    second: Ryzer Cutscene_506
+  - first:
+      213: 1215244085007692868
+    second: Ryzer Cutscene_507
+  - first:
+      213: 8261298476187690654
+    second: Ryzer Cutscene_508
+  - first:
+      213: 5910900472043364308
+    second: Ryzer Cutscene_509
+  - first:
+      213: -7652352525727358108
+    second: Ryzer Cutscene_510
+  - first:
+      213: 4821882957053834684
+    second: Ryzer Cutscene_511
+  - first:
+      213: -1588340957618855935
+    second: Ryzer Cutscene_512
+  - first:
+      213: 2338866240578372310
+    second: Ryzer Cutscene_513
+  - first:
+      213: -791074971191008724
+    second: Ryzer Cutscene_514
+  - first:
+      213: 9164649446918753610
+    second: Ryzer Cutscene_515
+  - first:
+      213: -4806656188577537705
+    second: Ryzer Cutscene_516
+  - first:
+      213: -6876610493047268954
+    second: Ryzer Cutscene_517
+  - first:
+      213: -8243070913084760822
+    second: Ryzer Cutscene_518
+  - first:
+      213: -3336846732861408307
+    second: Ryzer Cutscene_519
+  - first:
+      213: -2858912023594416574
+    second: Ryzer Cutscene_520
+  - first:
+      213: 655346815233760870
+    second: Ryzer Cutscene_521
+  - first:
+      213: 6175611079393873890
+    second: Ryzer Cutscene_522
+  - first:
+      213: 8215530190893887022
+    second: Ryzer Cutscene_523
+  - first:
+      213: -1928161868608145790
+    second: Ryzer Cutscene_524
+  - first:
+      213: -4122924537220670757
+    second: Ryzer Cutscene_525
+  - first:
+      213: -1344599884300700428
+    second: Ryzer Cutscene_526
+  - first:
+      213: 5337285623448010221
+    second: Ryzer Cutscene_527
+  - first:
+      213: 3281720940913390439
+    second: Ryzer Cutscene_528
+  - first:
+      213: -1380162784344589520
+    second: Ryzer Cutscene_529
+  - first:
+      213: 9120723101447661919
+    second: Ryzer Cutscene_530
+  - first:
+      213: 6488168537461046423
+    second: Ryzer Cutscene_531
+  - first:
+      213: -9008950571568519321
+    second: Ryzer Cutscene_532
+  - first:
+      213: 1589962501745876843
+    second: Ryzer Cutscene_533
+  - first:
+      213: -1129156652720549363
+    second: Ryzer Cutscene_534
+  - first:
+      213: 3562394632250215484
+    second: Ryzer Cutscene_535
+  - first:
+      213: -8125093659618470915
+    second: Ryzer Cutscene_536
+  - first:
+      213: 169589603447960620
+    second: Ryzer Cutscene_537
+  - first:
+      213: 4167303491045939811
+    second: Ryzer Cutscene_538
+  - first:
+      213: -3948658922953298663
+    second: Ryzer Cutscene_539
+  - first:
+      213: 8279771309443524610
+    second: Ryzer Cutscene_540
+  - first:
+      213: 814119482246241936
+    second: Ryzer Cutscene_541
+  - first:
+      213: -7664341281064512503
+    second: Ryzer Cutscene_542
+  - first:
+      213: -544504791607531679
+    second: Ryzer Cutscene_543
+  - first:
+      213: -7717377271742296380
+    second: Ryzer Cutscene_544
+  - first:
+      213: 4149763952366239658
+    second: Ryzer Cutscene_545
+  - first:
+      213: -6566937027621912921
+    second: Ryzer Cutscene_546
+  - first:
+      213: -1692995546432569503
+    second: Ryzer Cutscene_547
+  - first:
+      213: -703547144773897215
+    second: Ryzer Cutscene_548
+  - first:
+      213: 8491693117662778654
+    second: Ryzer Cutscene_549
+  - first:
+      213: 166903122870680303
+    second: Ryzer Cutscene_550
+  - first:
+      213: -803344308807799735
+    second: Ryzer Cutscene_551
+  - first:
+      213: 2634506018998837675
+    second: Ryzer Cutscene_552
+  - first:
+      213: -3310644529382148275
+    second: Ryzer Cutscene_553
+  - first:
+      213: -9005455070624460279
+    second: Ryzer Cutscene_554
+  - first:
+      213: -6734926020761329121
+    second: Ryzer Cutscene_555
+  - first:
+      213: -4913903042978318359
+    second: Ryzer Cutscene_556
+  - first:
+      213: 3577341138978707154
+    second: Ryzer Cutscene_557
+  - first:
+      213: -5747942664409767596
+    second: Ryzer Cutscene_558
+  - first:
+      213: 7862861179669996017
+    second: Ryzer Cutscene_559
+  - first:
+      213: -4889183788983198914
+    second: Ryzer Cutscene_560
+  - first:
+      213: -8180377432755802764
+    second: Ryzer Cutscene_561
+  - first:
+      213: -4198284851108917441
+    second: Ryzer Cutscene_562
+  - first:
+      213: 2869237066256408071
+    second: Ryzer Cutscene_563
+  - first:
+      213: -7701764801973146673
+    second: Ryzer Cutscene_564
+  - first:
+      213: 6464553249532117619
+    second: Ryzer Cutscene_565
+  - first:
+      213: -4829003089579609215
+    second: Ryzer Cutscene_566
+  - first:
+      213: -4342191428687531439
+    second: Ryzer Cutscene_567
+  - first:
+      213: -1644893174994953143
+    second: Ryzer Cutscene_568
+  - first:
+      213: -5718024855704260397
+    second: Ryzer Cutscene_569
+  - first:
+      213: -3231782358030480178
+    second: Ryzer Cutscene_570
+  - first:
+      213: -3724195240764751949
+    second: Ryzer Cutscene_571
+  - first:
+      213: 8396044904865080907
+    second: Ryzer Cutscene_572
+  - first:
+      213: 7998103653527237969
+    second: Ryzer Cutscene_573
+  - first:
+      213: 7545635498522401681
+    second: Ryzer Cutscene_574
+  - first:
+      213: 4508464640144843083
+    second: Ryzer Cutscene_575
+  - first:
+      213: -5497195226974550748
+    second: Ryzer Cutscene_576
+  - first:
+      213: 9001175391411820466
+    second: Ryzer Cutscene_577
+  - first:
+      213: -811190879571895662
+    second: Ryzer Cutscene_578
+  - first:
+      213: -4410015012686983036
+    second: Ryzer Cutscene_579
+  - first:
+      213: -5544644846632659110
+    second: Ryzer Cutscene_580
+  - first:
+      213: -5211426276438094268
+    second: Ryzer Cutscene_581
+  - first:
+      213: 6290097755580542894
+    second: Ryzer Cutscene_582
+  - first:
+      213: 7825508344356948205
+    second: Ryzer Cutscene_583
+  - first:
+      213: 8243666949801496217
+    second: Ryzer Cutscene_584
+  - first:
+      213: 3329650654071136353
+    second: Ryzer Cutscene_585
+  - first:
+      213: 672275051873127467
+    second: Ryzer Cutscene_586
+  - first:
+      213: 1414706681319294633
+    second: Ryzer Cutscene_587
+  - first:
+      213: -1397337383073981671
+    second: Ryzer Cutscene_588
+  - first:
+      213: -2529228563250537989
+    second: Ryzer Cutscene_589
+  - first:
+      213: 8237824252023070413
+    second: Ryzer Cutscene_590
+  - first:
+      213: 345870695813205727
+    second: Ryzer Cutscene_591
+  - first:
+      213: 1523678244041730951
+    second: Ryzer Cutscene_592
+  - first:
+      213: 4631834217416988098
+    second: Ryzer Cutscene_593
+  - first:
+      213: -6135008205278756912
+    second: Ryzer Cutscene_594
+  - first:
+      213: -1150380654323887437
+    second: Ryzer Cutscene_595
+  - first:
+      213: 3691436465825255893
+    second: Ryzer Cutscene_596
+  - first:
+      213: -6861163102786959433
+    second: Ryzer Cutscene_597
+  - first:
+      213: -4645372230376082636
+    second: Ryzer Cutscene_598
+  - first:
+      213: 4631207845792826088
+    second: Ryzer Cutscene_599
+  - first:
+      213: -1525388151167545502
+    second: Ryzer Cutscene_600
+  - first:
+      213: 5563878839735522419
+    second: Ryzer Cutscene_601
+  - first:
+      213: -7538264323478130658
+    second: Ryzer Cutscene_602
+  - first:
+      213: 2248988084231611674
+    second: Ryzer Cutscene_603
+  - first:
+      213: -4872266141183903263
+    second: Ryzer Cutscene_604
+  - first:
+      213: -2922304063859738248
+    second: Ryzer Cutscene_605
+  - first:
+      213: -6367801945277296374
+    second: Ryzer Cutscene_606
+  - first:
+      213: -320993925352818888
+    second: Ryzer Cutscene_607
+  - first:
+      213: 6856593982818446732
+    second: Ryzer Cutscene_608
+  - first:
+      213: -4882715765752263058
+    second: Ryzer Cutscene_609
+  - first:
+      213: -942629923949155290
+    second: Ryzer Cutscene_610
+  - first:
+      213: -8352610823819411406
+    second: Ryzer Cutscene_611
+  - first:
+      213: 8160877707435976972
+    second: Ryzer Cutscene_612
+  - first:
+      213: 674136821222718517
+    second: Ryzer Cutscene_613
+  - first:
+      213: -7527650842166500613
+    second: Ryzer Cutscene_614
+  - first:
+      213: 7676205597353597368
+    second: Ryzer Cutscene_615
+  - first:
+      213: -7338936728855134746
+    second: Ryzer Cutscene_616
+  - first:
+      213: -1877537150242484513
+    second: Ryzer Cutscene_617
+  - first:
+      213: -3434845901466036569
+    second: Ryzer Cutscene_618
+  - first:
+      213: 2867584510077410458
+    second: Ryzer Cutscene_619
+  - first:
+      213: -884392018993161994
+    second: Ryzer Cutscene_620
+  - first:
+      213: 4279266467324871324
+    second: Ryzer Cutscene_621
+  - first:
+      213: 1188963447071240072
+    second: Ryzer Cutscene_622
+  - first:
+      213: -7284510547708176799
+    second: Ryzer Cutscene_623
+  - first:
+      213: 6916025651997154555
+    second: Ryzer Cutscene_624
+  - first:
+      213: 6957984524457536920
+    second: Ryzer Cutscene_625
+  - first:
+      213: 7031855621175246773
+    second: Ryzer Cutscene_626
+  - first:
+      213: 7235394494103770787
+    second: Ryzer Cutscene_627
+  - first:
+      213: -3412137666064774877
+    second: Ryzer Cutscene_628
+  - first:
+      213: 1451860534426559133
+    second: Ryzer Cutscene_629
+  - first:
+      213: 5653927114137446070
+    second: Ryzer Cutscene_630
+  - first:
+      213: -317880200798924822
+    second: Ryzer Cutscene_631
+  - first:
+      213: -817808600614828331
+    second: Ryzer Cutscene_632
+  - first:
+      213: 8595800676602698867
+    second: Ryzer Cutscene_633
+  - first:
+      213: -3561428714213120253
+    second: Ryzer Cutscene_634
+  - first:
+      213: 7584136032964519220
+    second: Ryzer Cutscene_635
+  - first:
+      213: -368952911554489049
+    second: Ryzer Cutscene_636
+  - first:
+      213: 3731398884156451236
+    second: Ryzer Cutscene_637
+  - first:
+      213: 1724365591660833492
+    second: Ryzer Cutscene_638
+  - first:
+      213: 2629253047544126972
+    second: Ryzer Cutscene_639
+  - first:
+      213: -6997185806354275801
+    second: Ryzer Cutscene_640
+  - first:
+      213: 8618121389266742321
+    second: Ryzer Cutscene_641
+  - first:
+      213: -5197083896700233098
+    second: Ryzer Cutscene_642
+  - first:
+      213: 3696454913620455865
+    second: Ryzer Cutscene_643
+  - first:
+      213: -7574787655342915817
+    second: Ryzer Cutscene_644
+  - first:
+      213: 2737624906024346965
+    second: Ryzer Cutscene_645
+  - first:
+      213: 3572889715436654039
+    second: Ryzer Cutscene_646
+  - first:
+      213: -4061997189006720992
+    second: Ryzer Cutscene_647
+  - first:
+      213: 513510219063194744
+    second: Ryzer Cutscene_648
+  - first:
+      213: 128660009556607315
+    second: Ryzer Cutscene_649
+  - first:
+      213: 4080540806920239043
+    second: Ryzer Cutscene_650
+  - first:
+      213: -8429220073127269642
+    second: Ryzer Cutscene_651
+  - first:
+      213: 10780073546640879
+    second: Ryzer Cutscene_652
+  - first:
+      213: -7147588136366428067
+    second: Ryzer Cutscene_653
+  - first:
+      213: -6658833054620876982
+    second: Ryzer Cutscene_654
+  - first:
+      213: 3719923865236245180
+    second: Ryzer Cutscene_655
+  - first:
+      213: 4942682283622250278
+    second: Ryzer Cutscene_656
+  - first:
+      213: -6453600757478969956
+    second: Ryzer Cutscene_657
+  - first:
+      213: -2018492909145193695
+    second: Ryzer Cutscene_658
+  - first:
+      213: -2530152431169370057
+    second: Ryzer Cutscene_659
+  - first:
+      213: 55306653605476796
+    second: Ryzer Cutscene_660
+  - first:
+      213: 1198527438012185177
+    second: Ryzer Cutscene_661
+  - first:
+      213: 8268446313719555225
+    second: Ryzer Cutscene_662
+  - first:
+      213: 1467093973258932494
+    second: Ryzer Cutscene_663
+  - first:
+      213: 6344486029704480882
+    second: Ryzer Cutscene_664
+  - first:
+      213: 4135820130344795014
+    second: Ryzer Cutscene_665
+  - first:
+      213: 6694819870628392443
+    second: Ryzer Cutscene_666
+  - first:
+      213: -4046620232763723988
+    second: Ryzer Cutscene_667
+  - first:
+      213: -3133098591949641224
+    second: Ryzer Cutscene_668
+  - first:
+      213: 1547638821633694432
+    second: Ryzer Cutscene_669
+  - first:
+      213: -3071020500200159348
+    second: Ryzer Cutscene_670
+  - first:
+      213: -1509759913419767688
+    second: Ryzer Cutscene_671
+  - first:
+      213: 2345045795320019570
+    second: Ryzer Cutscene_672
+  - first:
+      213: -2248388426672571192
+    second: Ryzer Cutscene_673
+  - first:
+      213: -1373769622234503148
+    second: Ryzer Cutscene_674
+  - first:
+      213: -4563786825850301397
+    second: Ryzer Cutscene_675
+  - first:
+      213: 720595762729753940
+    second: Ryzer Cutscene_676
+  - first:
+      213: -5123994186897575395
+    second: Ryzer Cutscene_677
+  - first:
+      213: 4386228264897249954
+    second: Ryzer Cutscene_678
+  - first:
+      213: 4176071260302946649
+    second: Ryzer Cutscene_679
+  - first:
+      213: -944413462032664289
+    second: Ryzer Cutscene_680
+  - first:
+      213: -4454296591100520460
+    second: Ryzer Cutscene_681
+  - first:
+      213: -4531450503509302752
+    second: Ryzer Cutscene_682
+  - first:
+      213: 2893621500910106912
+    second: Ryzer Cutscene_683
+  - first:
+      213: 104809074370852414
+    second: Ryzer Cutscene_684
+  - first:
+      213: -8055398090832151169
+    second: Ryzer Cutscene_685
+  - first:
+      213: -2522148568841235314
+    second: Ryzer Cutscene_686
+  - first:
+      213: 7108395299763435679
+    second: Ryzer Cutscene_687
+  - first:
+      213: 4396552306122046571
+    second: Ryzer Cutscene_688
+  - first:
+      213: -6051403669828598937
+    second: Ryzer Cutscene_689
+  - first:
+      213: 1554874082093858185
+    second: Ryzer Cutscene_690
+  - first:
+      213: 3994910701313650445
+    second: Ryzer Cutscene_691
+  - first:
+      213: -5385418747832461837
+    second: Ryzer Cutscene_692
+  - first:
+      213: 6233206534954644471
+    second: Ryzer Cutscene_693
+  - first:
+      213: 7750507298221791821
+    second: Ryzer Cutscene_694
+  - first:
+      213: -1001777406262503116
+    second: Ryzer Cutscene_695
+  - first:
+      213: 6957199999685771386
+    second: Ryzer Cutscene_696
+  - first:
+      213: 8060070186148436613
+    second: Ryzer Cutscene_697
+  - first:
+      213: 5552968151895976742
+    second: Ryzer Cutscene_698
+  - first:
+      213: -4343426611685381822
+    second: Ryzer Cutscene_699
+  - first:
+      213: 8601299613986217873
+    second: Ryzer Cutscene_700
+  - first:
+      213: -2202801272031731261
+    second: Ryzer Cutscene_701
+  - first:
+      213: -1382191207756057464
+    second: Ryzer Cutscene_702
+  - first:
+      213: -4632774648171117627
+    second: Ryzer Cutscene_703
+  - first:
+      213: -4944380660852326606
+    second: Ryzer Cutscene_704
+  - first:
+      213: -1532080593667975674
+    second: Ryzer Cutscene_705
+  - first:
+      213: 1346518235648152368
+    second: Ryzer Cutscene_706
+  - first:
+      213: -6884359788802990739
+    second: Ryzer Cutscene_707
+  - first:
+      213: -2306387132967505995
+    second: Ryzer Cutscene_708
+  - first:
+      213: 2233729526124842566
+    second: Ryzer Cutscene_709
+  - first:
+      213: 3685864407326449842
+    second: Ryzer Cutscene_710
+  - first:
+      213: -8276389835646630040
+    second: Ryzer Cutscene_711
+  - first:
+      213: -1324235675530269614
+    second: Ryzer Cutscene_712
+  - first:
+      213: -9207240063933369113
+    second: Ryzer Cutscene_713
+  - first:
+      213: 4056196013768443650
+    second: Ryzer Cutscene_714
+  - first:
+      213: 562039929568388677
+    second: Ryzer Cutscene_715
+  - first:
+      213: 1301514273068360753
+    second: Ryzer Cutscene_716
+  - first:
+      213: 4973326367040924106
+    second: Ryzer Cutscene_717
+  - first:
+      213: 4635765463646816523
+    second: Ryzer Cutscene_718
+  - first:
+      213: -6291394984820155385
+    second: Ryzer Cutscene_719
+  - first:
+      213: 2650782393466386785
+    second: Ryzer Cutscene_720
+  - first:
+      213: -5397588347307188783
+    second: Ryzer Cutscene_721
+  - first:
+      213: -5329625664747153209
+    second: Ryzer Cutscene_722
+  - first:
+      213: 7000770347581375946
+    second: Ryzer Cutscene_723
+  - first:
+      213: 798698407439230430
+    second: Ryzer Cutscene_724
+  - first:
+      213: -7477606372251683088
+    second: Ryzer Cutscene_725
+  - first:
+      213: -4783125034913167352
+    second: Ryzer Cutscene_726
+  - first:
+      213: 9206058086397505785
+    second: Ryzer Cutscene_727
+  - first:
+      213: -5189598837693563664
+    second: Ryzer Cutscene_728
+  - first:
+      213: -3388537567873574561
+    second: Ryzer Cutscene_729
+  - first:
+      213: 4871197797156003090
+    second: Ryzer Cutscene_730
+  - first:
+      213: -872756734151703606
+    second: Ryzer Cutscene_731
+  - first:
+      213: 5333411433041304622
+    second: Ryzer Cutscene_732
+  - first:
+      213: -1071815842086319904
+    second: Ryzer Cutscene_733
+  - first:
+      213: -8823074794237554695
+    second: Ryzer Cutscene_734
+  - first:
+      213: -6484988192734538005
+    second: Ryzer Cutscene_735
+  - first:
+      213: -2057920218770971202
+    second: Ryzer Cutscene_736
+  - first:
+      213: 9082887789214969807
+    second: Ryzer Cutscene_737
+  - first:
+      213: -3856734918525921542
+    second: Ryzer Cutscene_738
+  - first:
+      213: -2698098751553413465
+    second: Ryzer Cutscene_739
+  - first:
+      213: -245803954455285422
+    second: Ryzer Cutscene_740
+  - first:
+      213: -4388728876904139803
+    second: Ryzer Cutscene_741
+  - first:
+      213: -7183531658606579040
+    second: Ryzer Cutscene_742
+  - first:
+      213: 5764652769727202989
+    second: Ryzer Cutscene_743
+  - first:
+      213: 2753398575330609016
+    second: Ryzer Cutscene_744
+  - first:
+      213: -7896053984142669917
+    second: Ryzer Cutscene_745
+  - first:
+      213: 6861948957995504739
+    second: Ryzer Cutscene_746
+  - first:
+      213: 2727643699107558821
+    second: Ryzer Cutscene_747
+  - first:
+      213: -3118234428837853802
+    second: Ryzer Cutscene_748
+  - first:
+      213: 6094025149567961340
+    second: Ryzer Cutscene_749
+  - first:
+      213: -6874377719669222640
+    second: Ryzer Cutscene_750
+  - first:
+      213: -6020350985072765129
+    second: Ryzer Cutscene_751
+  - first:
+      213: -2409627453585279143
+    second: Ryzer Cutscene_752
+  - first:
+      213: 6229780261697994039
+    second: Ryzer Cutscene_753
+  - first:
+      213: -1823907768629069630
+    second: Ryzer Cutscene_754
+  - first:
+      213: 1693517254360453976
+    second: Ryzer Cutscene_755
+  - first:
+      213: 9082440871678074471
+    second: Ryzer Cutscene_756
+  - first:
+      213: -5896818825594965575
+    second: Ryzer Cutscene_757
+  - first:
+      213: -6592211832532675005
+    second: Ryzer Cutscene_758
+  - first:
+      213: -6026212941350244209
+    second: Ryzer Cutscene_759
+  - first:
+      213: 8773258531242926603
+    second: Ryzer Cutscene_760
+  - first:
+      213: 6591585968333903903
+    second: Ryzer Cutscene_761
+  - first:
+      213: -2858207334749162922
+    second: Ryzer Cutscene_762
+  - first:
+      213: 7120392573195633170
+    second: Ryzer Cutscene_763
+  - first:
+      213: 2010755869284571720
+    second: Ryzer Cutscene_764
+  - first:
+      213: -8736989169262373316
+    second: Ryzer Cutscene_765
+  - first:
+      213: 2495572712447318610
+    second: Ryzer Cutscene_766
+  - first:
+      213: -8859394194357618362
+    second: Ryzer Cutscene_767
+  - first:
+      213: -114511197840262115
+    second: Ryzer Cutscene_768
+  - first:
+      213: -1504744325922848219
+    second: Ryzer Cutscene_769
+  - first:
+      213: 9191475714727660003
+    second: Ryzer Cutscene_770
+  - first:
+      213: -4438401567951893627
+    second: Ryzer Cutscene_771
+  - first:
+      213: 3537947586127596063
+    second: Ryzer Cutscene_772
+  - first:
+      213: -7138063612157529629
+    second: Ryzer Cutscene_773
+  - first:
+      213: 5274357991875793417
+    second: Ryzer Cutscene_774
+  - first:
+      213: -453110040799704807
+    second: Ryzer Cutscene_775
+  - first:
+      213: -6473644127786809611
+    second: Ryzer Cutscene_776
+  - first:
+      213: 953366893160937239
+    second: Ryzer Cutscene_777
+  - first:
+      213: 4417610105818277712
+    second: Ryzer Cutscene_778
+  - first:
+      213: -9121801393436130209
+    second: Ryzer Cutscene_779
+  - first:
+      213: -3679749905237989963
+    second: Ryzer Cutscene_780
+  - first:
+      213: 163278000747124076
+    second: Ryzer Cutscene_781
+  - first:
+      213: 3181067309204586309
+    second: Ryzer Cutscene_782
+  - first:
+      213: 5960233735428788625
+    second: Ryzer Cutscene_783
+  - first:
+      213: 7435765986492349785
+    second: Ryzer Cutscene_784
+  - first:
+      213: 1898795456344540396
+    second: Ryzer Cutscene_785
+  - first:
+      213: -4363715782257251247
+    second: Ryzer Cutscene_786
+  - first:
+      213: -341811477739127106
+    second: Ryzer Cutscene_787
+  - first:
+      213: -591627465754725369
+    second: Ryzer Cutscene_788
+  - first:
+      213: 6397280909512755215
+    second: Ryzer Cutscene_789
+  - first:
+      213: -6424593370140034546
+    second: Ryzer Cutscene_790
+  - first:
+      213: -8450314707388452439
+    second: Ryzer Cutscene_791
+  - first:
+      213: 591065960753575787
+    second: Ryzer Cutscene_792
+  - first:
+      213: 3984570345892198012
+    second: Ryzer Cutscene_793
+  - first:
+      213: 8944579958351010561
+    second: Ryzer Cutscene_794
+  - first:
+      213: 9056221651373840968
+    second: Ryzer Cutscene_795
+  - first:
+      213: 6945516457175100675
+    second: Ryzer Cutscene_796
+  - first:
+      213: -8118017808048206384
+    second: Ryzer Cutscene_797
+  - first:
+      213: 960906435152551797
+    second: Ryzer Cutscene_798
+  - first:
+      213: 5648019515927728148
+    second: Ryzer Cutscene_799
+  - first:
+      213: -2835461597241139127
+    second: Ryzer Cutscene_800
+  - first:
+      213: -7963286676824024479
+    second: Ryzer Cutscene_801
+  - first:
+      213: -3213552225280712800
+    second: Ryzer Cutscene_802
+  - first:
+      213: 6286695802160201241
+    second: Ryzer Cutscene_803
+  - first:
+      213: -6500483886776140707
+    second: Ryzer Cutscene_804
+  - first:
+      213: 4227296912069201721
+    second: Ryzer Cutscene_805
+  - first:
+      213: 4567493927530365557
+    second: Ryzer Cutscene_806
+  - first:
+      213: 5792367155791370797
+    second: Ryzer Cutscene_807
+  - first:
+      213: -544172597052811426
+    second: Ryzer Cutscene_808
+  - first:
+      213: 7052628072402954349
+    second: Ryzer Cutscene_809
+  - first:
+      213: -6940132973314486719
+    second: Ryzer Cutscene_810
+  - first:
+      213: -824150025714040205
+    second: Ryzer Cutscene_811
+  - first:
+      213: 8717762145669581557
+    second: Ryzer Cutscene_812
+  - first:
+      213: -7761244552528210471
+    second: Ryzer Cutscene_813
+  - first:
+      213: -521404493217584124
+    second: Ryzer Cutscene_814
+  - first:
+      213: -7092753312630219258
+    second: Ryzer Cutscene_815
+  - first:
+      213: -689637546821948969
+    second: Ryzer Cutscene_816
+  - first:
+      213: 5850887560737263204
+    second: Ryzer Cutscene_817
+  - first:
+      213: -7013262261320408060
+    second: Ryzer Cutscene_818
+  - first:
+      213: -5500219436208578172
+    second: Ryzer Cutscene_819
+  - first:
+      213: -5489179581581234307
+    second: Ryzer Cutscene_820
+  - first:
+      213: -595046187079725660
+    second: Ryzer Cutscene_821
+  - first:
+      213: -3838994987984431827
+    second: Ryzer Cutscene_822
+  - first:
+      213: -7871743365377107873
+    second: Ryzer Cutscene_823
+  - first:
+      213: 1340403846950204785
+    second: Ryzer Cutscene_824
+  - first:
+      213: -7980922373673343096
+    second: Ryzer Cutscene_825
+  - first:
+      213: 5119674451359571198
+    second: Ryzer Cutscene_826
+  - first:
+      213: -5539328988736802980
+    second: Ryzer Cutscene_827
+  - first:
+      213: -6303448713919452455
+    second: Ryzer Cutscene_828
+  - first:
+      213: 3133451857008772238
+    second: Ryzer Cutscene_829
+  - first:
+      213: -3674413829832191144
+    second: Ryzer Cutscene_830
+  - first:
+      213: -404840061405535967
+    second: Ryzer Cutscene_831
+  - first:
+      213: -2044545903943663024
+    second: Ryzer Cutscene_832
+  - first:
+      213: -8523876762166946620
+    second: Ryzer Cutscene_833
+  - first:
+      213: -3897319892610975157
+    second: Ryzer Cutscene_834
+  - first:
+      213: 2687982679762995877
+    second: Ryzer Cutscene_835
+  - first:
+      213: -8310778148439274235
+    second: Ryzer Cutscene_836
+  - first:
+      213: 893958211159347358
+    second: Ryzer Cutscene_837
+  - first:
+      213: 2782502097871915020
+    second: Ryzer Cutscene_838
+  - first:
+      213: -5724211256984725801
+    second: Ryzer Cutscene_839
+  - first:
+      213: 1388106680564834396
+    second: Ryzer Cutscene_840
+  - first:
+      213: -3388802977828750645
+    second: Ryzer Cutscene_841
+  - first:
+      213: -4433274142935187556
+    second: Ryzer Cutscene_842
+  - first:
+      213: 7076658625614102506
+    second: Ryzer Cutscene_843
+  - first:
+      213: -7481349271799464582
+    second: Ryzer Cutscene_844
+  - first:
+      213: 1351778882292088678
+    second: Ryzer Cutscene_845
+  - first:
+      213: 4345744837562642928
+    second: Ryzer Cutscene_846
+  - first:
+      213: -7092296401353557586
+    second: Ryzer Cutscene_847
+  - first:
+      213: -96528436063579858
+    second: Ryzer Cutscene_848
+  - first:
+      213: 7562079624938289730
+    second: Ryzer Cutscene_849
+  - first:
+      213: 3953700379795077431
+    second: Ryzer Cutscene_850
+  - first:
+      213: -2096723932994064254
+    second: Ryzer Cutscene_851
+  - first:
+      213: 8406637354569399410
+    second: Ryzer Cutscene_852
+  - first:
+      213: 4336406515524058144
+    second: Ryzer Cutscene_853
+  - first:
+      213: -1954940839700558422
+    second: Ryzer Cutscene_854
+  - first:
+      213: -8762293743187472551
+    second: Ryzer Cutscene_855
+  - first:
+      213: 1897965872314245393
+    second: Ryzer Cutscene_856
+  - first:
+      213: -7475263603333319413
+    second: Ryzer Cutscene_857
+  - first:
+      213: -7248437955146546875
+    second: Ryzer Cutscene_858
+  - first:
+      213: 7533603451175538980
+    second: Ryzer Cutscene_859
+  - first:
+      213: -5985225295938173307
+    second: Ryzer Cutscene_860
+  - first:
+      213: 6865403317123537301
+    second: Ryzer Cutscene_861
+  - first:
+      213: 1814021063597960990
+    second: Ryzer Cutscene_862
+  - first:
+      213: 1681723003332826455
+    second: Ryzer Cutscene_863
+  - first:
+      213: -6031907640629308860
+    second: Ryzer Cutscene_864
+  - first:
+      213: 5664732553244643321
+    second: Ryzer Cutscene_865
+  - first:
+      213: -795287509923417194
+    second: Ryzer Cutscene_866
+  - first:
+      213: 3867393796498999695
+    second: Ryzer Cutscene_867
+  - first:
+      213: -5866524748834452732
+    second: Ryzer Cutscene_868
+  - first:
+      213: 5879588957493985303
+    second: Ryzer Cutscene_869
+  - first:
+      213: -811845448173576667
+    second: Ryzer Cutscene_870
+  - first:
+      213: 5613079350447515854
+    second: Ryzer Cutscene_871
+  - first:
+      213: -1381801538247795257
+    second: Ryzer Cutscene_872
+  - first:
+      213: -4625293222684546175
+    second: Ryzer Cutscene_873
+  - first:
+      213: 563375922590415318
+    second: Ryzer Cutscene_874
+  - first:
+      213: -5283685926489868705
+    second: Ryzer Cutscene_875
+  - first:
+      213: 8673665265811853848
+    second: Ryzer Cutscene_876
+  - first:
+      213: 6376285011277741031
+    second: Ryzer Cutscene_877
+  - first:
+      213: 8963876400245543522
+    second: Ryzer Cutscene_878
+  - first:
+      213: 7609769608006633839
+    second: Ryzer Cutscene_879
+  - first:
+      213: -5260548419147044884
+    second: Ryzer Cutscene_880
+  - first:
+      213: -80125934216334281
+    second: Ryzer Cutscene_881
+  - first:
+      213: -497402926939874147
+    second: Ryzer Cutscene_882
+  - first:
+      213: -433749067015427479
+    second: Ryzer Cutscene_883
+  - first:
+      213: 3983491601503805815
+    second: Ryzer Cutscene_884
+  - first:
+      213: 8461951625836682245
+    second: Ryzer Cutscene_885
+  - first:
+      213: -2129432758219870125
+    second: Ryzer Cutscene_886
+  - first:
+      213: 2937515110328374010
+    second: Ryzer Cutscene_887
+  - first:
+      213: -6797019975124246948
+    second: Ryzer Cutscene_888
+  - first:
+      213: 7510270686720630119
+    second: Ryzer Cutscene_889
+  - first:
+      213: 5214751931241999471
+    second: Ryzer Cutscene_890
+  - first:
+      213: -4886772844019503212
+    second: Ryzer Cutscene_891
+  - first:
+      213: 4586411677414574461
+    second: Ryzer Cutscene_892
+  - first:
+      213: -1617619218131201168
+    second: Ryzer Cutscene_893
+  - first:
+      213: 660809124964675206
+    second: Ryzer Cutscene_894
+  - first:
+      213: 2792982109810040075
+    second: Ryzer Cutscene_895
+  - first:
+      213: 7489836421116800874
+    second: Ryzer Cutscene_896
+  - first:
+      213: 8872758486314993139
+    second: Ryzer Cutscene_897
+  - first:
+      213: -7266271246171577440
+    second: Ryzer Cutscene_898
+  - first:
+      213: 8435962710246554090
+    second: Ryzer Cutscene_899
+  - first:
+      213: -7197862348672620938
+    second: Ryzer Cutscene_900
+  - first:
+      213: 1704027162711538426
+    second: Ryzer Cutscene_901
+  - first:
+      213: 1501627306099055587
+    second: Ryzer Cutscene_902
+  - first:
+      213: 2477714048181710471
+    second: Ryzer Cutscene_903
+  - first:
+      213: 4407355109055826147
+    second: Ryzer Cutscene_904
+  - first:
+      213: -7926524437216718772
+    second: Ryzer Cutscene_905
+  - first:
+      213: -4342987433171543092
+    second: Ryzer Cutscene_906
+  - first:
+      213: -1228343850931836182
+    second: Ryzer Cutscene_907
+  - first:
+      213: -7094923821040647314
+    second: Ryzer Cutscene_908
+  - first:
+      213: -5550854348904433792
+    second: Ryzer Cutscene_909
+  - first:
+      213: -7091413345268784717
+    second: Ryzer Cutscene_910
+  - first:
+      213: 5034831489707227366
+    second: Ryzer Cutscene_911
+  - first:
+      213: -4470873265753641549
+    second: Ryzer Cutscene_912
+  - first:
+      213: 6656431876722084956
+    second: Ryzer Cutscene_913
+  - first:
+      213: -7546583818506616188
+    second: Ryzer Cutscene_914
+  - first:
+      213: -2384293747946004860
+    second: Ryzer Cutscene_915
+  - first:
+      213: 7592936427193178258
+    second: Ryzer Cutscene_916
+  - first:
+      213: 6616630901879436713
+    second: Ryzer Cutscene_917
+  - first:
+      213: -5210132584589240372
+    second: Ryzer Cutscene_918
+  - first:
+      213: 5412071844583894286
+    second: Ryzer Cutscene_919
+  - first:
+      213: -457140890774617420
+    second: Ryzer Cutscene_920
+  - first:
+      213: 7335185266900485456
+    second: Ryzer Cutscene_921
+  - first:
+      213: -1991544881066657555
+    second: Ryzer Cutscene_922
+  - first:
+      213: -3763179215819878115
+    second: Ryzer Cutscene_923
+  - first:
+      213: 7837868562491020374
+    second: Ryzer Cutscene_924
+  - first:
+      213: -2067245310091784155
+    second: Ryzer Cutscene_925
+  - first:
+      213: -7180106343928960515
+    second: Ryzer Cutscene_926
+  - first:
+      213: 3752690617714408684
+    second: Ryzer Cutscene_927
+  - first:
+      213: -3148594200678620072
+    second: Ryzer Cutscene_928
+  - first:
+      213: -4547113821609944766
+    second: Ryzer Cutscene_929
+  - first:
+      213: 3307404740108439503
+    second: Ryzer Cutscene_930
+  - first:
+      213: 629646165746486435
+    second: Ryzer Cutscene_931
+  - first:
+      213: -6186090257395838651
+    second: Ryzer Cutscene_932
+  - first:
+      213: 4528868959200005814
+    second: Ryzer Cutscene_933
+  - first:
+      213: -7678293083892105234
+    second: Ryzer Cutscene_934
+  - first:
+      213: -5686351720923290032
+    second: Ryzer Cutscene_935
+  - first:
+      213: -726974445085035149
+    second: Ryzer Cutscene_936
+  - first:
+      213: -7746450291531691223
+    second: Ryzer Cutscene_937
+  - first:
+      213: -9183861611659283756
+    second: Ryzer Cutscene_938
+  - first:
+      213: -7229991471318699563
+    second: Ryzer Cutscene_939
+  - first:
+      213: -6133664142213640708
+    second: Ryzer Cutscene_940
+  - first:
+      213: -3035397088958006254
+    second: Ryzer Cutscene_941
+  - first:
+      213: 2732998929122424517
+    second: Ryzer Cutscene_942
+  - first:
+      213: -5549791169489994532
+    second: Ryzer Cutscene_943
+  - first:
+      213: -2733520109944884358
+    second: Ryzer Cutscene_944
+  - first:
+      213: 6722956787316663597
+    second: Ryzer Cutscene_945
+  - first:
+      213: 4869207934137110719
+    second: Ryzer Cutscene_946
+  - first:
+      213: 6861839200611528385
+    second: Ryzer Cutscene_947
+  - first:
+      213: 4626127226755834704
+    second: Ryzer Cutscene_948
+  - first:
+      213: -1448010209009716820
+    second: Ryzer Cutscene_949
+  - first:
+      213: -3723940760392255018
+    second: Ryzer Cutscene_950
+  - first:
+      213: 2277118416753446892
+    second: Ryzer Cutscene_951
+  - first:
+      213: -6963544026735766581
+    second: Ryzer Cutscene_952
+  - first:
+      213: 504421945674057472
+    second: Ryzer Cutscene_953
+  - first:
+      213: -6974962565098953224
+    second: Ryzer Cutscene_954
+  - first:
+      213: -3637402208999054706
+    second: Ryzer Cutscene_955
+  - first:
+      213: -4806590770566241085
+    second: Ryzer Cutscene_956
+  - first:
+      213: -3353785958614860488
+    second: Ryzer Cutscene_957
+  - first:
+      213: 6018325131015584556
+    second: Ryzer Cutscene_958
+  - first:
+      213: -3126982370446910961
+    second: Ryzer Cutscene_959
+  - first:
+      213: -2603042092975981249
+    second: Ryzer Cutscene_960
+  - first:
+      213: 8530983277597033864
+    second: Ryzer Cutscene_961
+  - first:
+      213: 7352081028961517433
+    second: Ryzer Cutscene_962
+  - first:
+      213: -9173992298254377759
+    second: Ryzer Cutscene_963
+  - first:
+      213: -683226156304629542
+    second: Ryzer Cutscene_964
+  - first:
+      213: -633555781833114971
+    second: Ryzer Cutscene_965
+  - first:
+      213: -4627798954840861547
+    second: Ryzer Cutscene_966
+  - first:
+      213: 4800823701086931230
+    second: Ryzer Cutscene_967
+  - first:
+      213: -7981594022654787075
+    second: Ryzer Cutscene_968
+  - first:
+      213: 9197058974366046140
+    second: Ryzer Cutscene_969
+  - first:
+      213: 5687464689274053725
+    second: Ryzer Cutscene_970
+  - first:
+      213: -3559348347562045129
+    second: Ryzer Cutscene_971
+  - first:
+      213: -8941764740635774097
+    second: Ryzer Cutscene_972
+  - first:
+      213: -2536392877153668673
+    second: Ryzer Cutscene_973
+  - first:
+      213: -4291143357007041683
+    second: Ryzer Cutscene_974
+  - first:
+      213: 3052653844903251296
+    second: Ryzer Cutscene_975
+  - first:
+      213: -6998178502238353863
+    second: Ryzer Cutscene_976
+  - first:
+      213: -711838360494370876
+    second: Ryzer Cutscene_977
+  - first:
+      213: -4633333574680187486
+    second: Ryzer Cutscene_978
+  - first:
+      213: -3041875396365904228
+    second: Ryzer Cutscene_979
+  - first:
+      213: -4290224268613136728
+    second: Ryzer Cutscene_980
+  - first:
+      213: 2391806611734495761
+    second: Ryzer Cutscene_981
+  - first:
+      213: 686316127820334241
+    second: Ryzer Cutscene_982
+  - first:
+      213: -6467299169209452204
+    second: Ryzer Cutscene_983
+  - first:
+      213: 2172213234662982195
+    second: Ryzer Cutscene_984
+  - first:
+      213: -3347689433940324287
+    second: Ryzer Cutscene_985
+  - first:
+      213: -6388719516811532678
+    second: Ryzer Cutscene_986
+  - first:
+      213: 3633324079865878827
+    second: Ryzer Cutscene_987
+  - first:
+      213: 1966503377673448157
+    second: Ryzer Cutscene_988
+  - first:
+      213: -7470478061470076903
+    second: Ryzer Cutscene_989
+  - first:
+      213: -2565723408024116163
+    second: Ryzer Cutscene_990
+  - first:
+      213: 8828809270794872728
+    second: Ryzer Cutscene_991
+  - first:
+      213: 1556662418996287895
+    second: Ryzer Cutscene_992
+  - first:
+      213: -3341058975072755192
+    second: Ryzer Cutscene_993
+  - first:
+      213: -7286974999737945388
+    second: Ryzer Cutscene_994
+  - first:
+      213: 6760193328497373225
+    second: Ryzer Cutscene_995
+  - first:
+      213: 8492890334027104963
+    second: Ryzer Cutscene_996
+  - first:
+      213: -3035859565205883347
+    second: Ryzer Cutscene_997
+  - first:
+      213: 6008726188235923372
+    second: Ryzer Cutscene_998
+  - first:
+      213: -1419746573520012316
+    second: Ryzer Cutscene_999
+  - first:
+      213: -454873876267529296
+    second: Ryzer Cutscene_1000
+  - first:
+      213: -3387237353458641812
+    second: Ryzer Cutscene_1001
+  - first:
+      213: -4195672743825299524
+    second: Ryzer Cutscene_1002
+  - first:
+      213: 4006032744106079776
+    second: Ryzer Cutscene_1003
+  - first:
+      213: 8028385878226759173
+    second: Ryzer Cutscene_1004
+  - first:
+      213: -9033819681922776122
+    second: Ryzer Cutscene_1005
+  - first:
+      213: -9169086617903203942
+    second: Ryzer Cutscene_1006
+  - first:
+      213: -5034981186688421746
+    second: Ryzer Cutscene_1007
+  - first:
+      213: 3211303436427476021
+    second: Ryzer Cutscene_1008
+  - first:
+      213: 3591737675922817732
+    second: Ryzer Cutscene_1009
+  - first:
+      213: -2786045928532287185
+    second: Ryzer Cutscene_1010
+  - first:
+      213: -2317519269856276592
+    second: Ryzer Cutscene_1011
+  - first:
+      213: 1932527301918120622
+    second: Ryzer Cutscene_1012
+  - first:
+      213: -2076052194039377878
+    second: Ryzer Cutscene_1013
+  - first:
+      213: 1169566652179632096
+    second: Ryzer Cutscene_1014
+  - first:
+      213: -4017557628445206579
+    second: Ryzer Cutscene_1015
+  - first:
+      213: 5390816765739665367
+    second: Ryzer Cutscene_1016
+  - first:
+      213: -6392783937423995345
+    second: Ryzer Cutscene_1017
+  - first:
+      213: -8216154457472254128
+    second: Ryzer Cutscene_1018
+  - first:
+      213: 4652295560657748286
+    second: Ryzer Cutscene_1019
+  - first:
+      213: 7118643427435583094
+    second: Ryzer Cutscene_1020
+  - first:
+      213: -1341960702997363340
+    second: Ryzer Cutscene_1021
+  - first:
+      213: -6628666384033850204
+    second: Ryzer Cutscene_1022
+  - first:
+      213: -5055579562979509369
+    second: Ryzer Cutscene_1023
+  - first:
+      213: -8561251015348625530
+    second: Ryzer Cutscene_1024
+  - first:
+      213: -7816908097945502396
+    second: Ryzer Cutscene_1025
+  - first:
+      213: 5368309044340193198
+    second: Ryzer Cutscene_1026
+  - first:
+      213: 1643409425670468775
+    second: Ryzer Cutscene_1027
+  - first:
+      213: 2398999868994455843
+    second: Ryzer Cutscene_1028
+  - first:
+      213: 1940294164212898675
+    second: Ryzer Cutscene_1029
+  - first:
+      213: -4868582420836506786
+    second: Ryzer Cutscene_1030
+  - first:
+      213: -7321427803549906345
+    second: Ryzer Cutscene_1031
+  - first:
+      213: -747482287642845730
+    second: Ryzer Cutscene_1032
+  - first:
+      213: -5815079810065434654
+    second: Ryzer Cutscene_1033
+  - first:
+      213: 6351331514540300143
+    second: Ryzer Cutscene_1034
+  - first:
+      213: 4881318346926123153
+    second: Ryzer Cutscene_1035
+  - first:
+      213: 5914799497685179777
+    second: Ryzer Cutscene_1036
+  - first:
+      213: -3176311740524579384
+    second: Ryzer Cutscene_1037
+  - first:
+      213: -3298955573334309619
+    second: Ryzer Cutscene_1038
+  - first:
+      213: -5975141929324447499
+    second: Ryzer Cutscene_1039
+  - first:
+      213: 5414125134783888080
+    second: Ryzer Cutscene_1040
+  - first:
+      213: -7930762630142160935
+    second: Ryzer Cutscene_1041
+  - first:
+      213: -4664504869442144776
+    second: Ryzer Cutscene_1042
+  - first:
+      213: 8114602014991696378
+    second: Ryzer Cutscene_1043
+  - first:
+      213: 8922767519060443555
+    second: Ryzer Cutscene_1044
+  - first:
+      213: 7712019360141122497
+    second: Ryzer Cutscene_1045
+  - first:
+      213: -1707644354876764585
+    second: Ryzer Cutscene_1046
+  - first:
+      213: 1235996831649847430
+    second: Ryzer Cutscene_1047
+  - first:
+      213: 1940527346182985878
+    second: Ryzer Cutscene_1048
+  - first:
+      213: 7690322430555144740
+    second: Ryzer Cutscene_1049
+  - first:
+      213: 3477807169353600105
+    second: Ryzer Cutscene_1050
+  - first:
+      213: -441189587728431781
+    second: Ryzer Cutscene_1051
+  - first:
+      213: 7884398747937101089
+    second: Ryzer Cutscene_1052
+  - first:
+      213: 1061721424623970911
+    second: Ryzer Cutscene_1053
+  - first:
+      213: -2346814958343742596
+    second: Ryzer Cutscene_1054
+  - first:
+      213: -1082962543023538885
+    second: Ryzer Cutscene_1055
+  - first:
+      213: 6322891219970582508
+    second: Ryzer Cutscene_1056
+  - first:
+      213: -4983950344984324836
+    second: Ryzer Cutscene_1057
+  - first:
+      213: -8350558488459833039
+    second: Ryzer Cutscene_1058
+  - first:
+      213: -8086829319441899204
+    second: Ryzer Cutscene_1059
+  - first:
+      213: 2626752117250027306
+    second: Ryzer Cutscene_1060
+  - first:
+      213: -6761098572432648319
+    second: Ryzer Cutscene_1061
+  - first:
+      213: -4235842916026021626
+    second: Ryzer Cutscene_1062
+  - first:
+      213: -6822519269473762562
+    second: Ryzer Cutscene_1063
+  - first:
+      213: 1830596807688362117
+    second: Ryzer Cutscene_1064
+  - first:
+      213: -3188398026747469731
+    second: Ryzer Cutscene_1065
+  - first:
+      213: -8358967897159157510
+    second: Ryzer Cutscene_1066
+  - first:
+      213: -1197003414224678581
+    second: Ryzer Cutscene_1067
+  - first:
+      213: 5562239301514080101
+    second: Ryzer Cutscene_1068
+  - first:
+      213: 862974285005699178
+    second: Ryzer Cutscene_1069
+  - first:
+      213: 2179175292314641551
+    second: Ryzer Cutscene_1070
+  - first:
+      213: -2889377360120035350
+    second: Ryzer Cutscene_1071
+  - first:
+      213: -2111959376078887616
+    second: Ryzer Cutscene_1072
+  - first:
+      213: 8181653552351367588
+    second: Ryzer Cutscene_1073
+  - first:
+      213: 2586913690517577677
+    second: Ryzer Cutscene_1074
+  - first:
+      213: 7232691699358537749
+    second: Ryzer Cutscene_1075
+  - first:
+      213: 6180731658194752833
+    second: Ryzer Cutscene_1076
+  - first:
+      213: 2580330175306335587
+    second: Ryzer Cutscene_1077
+  - first:
+      213: 6505627737065409382
+    second: Ryzer Cutscene_1078
+  - first:
+      213: 884027730968669812
+    second: Ryzer Cutscene_1079
+  - first:
+      213: 4364428296566570622
+    second: Ryzer Cutscene_1080
+  - first:
+      213: -958465913582707901
+    second: Ryzer Cutscene_1081
+  - first:
+      213: -5857718058703074653
+    second: Ryzer Cutscene_1082
+  - first:
+      213: 8755595350214179802
+    second: Ryzer Cutscene_1083
+  - first:
+      213: -3487319261194142103
+    second: Ryzer Cutscene_1084
+  - first:
+      213: -6912311334529442499
+    second: Ryzer Cutscene_1085
+  - first:
+      213: -6022037895275064496
+    second: Ryzer Cutscene_1086
+  - first:
+      213: 6071678578169570087
+    second: Ryzer Cutscene_1087
+  - first:
+      213: 9221910152410244748
+    second: Ryzer Cutscene_1088
+  - first:
+      213: 860033531706119089
+    second: Ryzer Cutscene_1089
+  - first:
+      213: 2503182797402711044
+    second: Ryzer Cutscene_1090
+  - first:
+      213: -512659842494465684
+    second: Ryzer Cutscene_1091
+  - first:
+      213: -6804906096434746793
+    second: Ryzer Cutscene_1092
+  - first:
+      213: -4214988256801732044
+    second: Ryzer Cutscene_1093
+  - first:
+      213: 516980979612799451
+    second: Ryzer Cutscene_1094
+  - first:
+      213: -6085328412122236034
+    second: Ryzer Cutscene_1095
+  - first:
+      213: 3095923114744263869
+    second: Ryzer Cutscene_1096
+  - first:
+      213: 5886874381238169390
+    second: Ryzer Cutscene_1097
+  - first:
+      213: 8734671392129876977
+    second: Ryzer Cutscene_1098
+  - first:
+      213: 7615893817070194255
+    second: Ryzer Cutscene_1099
+  - first:
+      213: -94928535554681423
+    second: Ryzer Cutscene_1100
+  - first:
+      213: 1073991989894045782
+    second: Ryzer Cutscene_1101
+  - first:
+      213: -8010826333362437796
+    second: Ryzer Cutscene_1102
+  - first:
+      213: 3904417557070951295
+    second: Ryzer Cutscene_1103
+  - first:
+      213: -6983221541165544062
+    second: Ryzer Cutscene_1104
+  - first:
+      213: -155962285635894542
+    second: Ryzer Cutscene_1105
+  - first:
+      213: 1625724806788127122
+    second: Ryzer Cutscene_1106
+  - first:
+      213: 4653331139973275952
+    second: Ryzer Cutscene_1107
+  - first:
+      213: -5026574885211684237
+    second: Ryzer Cutscene_1108
+  - first:
+      213: 7192041371469861948
+    second: Ryzer Cutscene_1109
+  - first:
+      213: 1192404789335164089
+    second: Ryzer Cutscene_1110
+  - first:
+      213: -4710376904910253273
+    second: Ryzer Cutscene_1111
+  - first:
+      213: -2497457692717665039
+    second: Ryzer Cutscene_1112
+  - first:
+      213: -2760606623712923956
+    second: Ryzer Cutscene_1113
+  - first:
+      213: 4327510760034225158
+    second: Ryzer Cutscene_1114
+  - first:
+      213: -600048923515032193
+    second: Ryzer Cutscene_1115
+  - first:
+      213: 6858443979154657584
+    second: Ryzer Cutscene_1116
+  - first:
+      213: 1491503584565765781
+    second: Ryzer Cutscene_1117
+  - first:
+      213: -128043334504404215
+    second: Ryzer Cutscene_1118
+  - first:
+      213: -4879730756091023311
+    second: Ryzer Cutscene_1119
+  - first:
+      213: -5310723562051688701
+    second: Ryzer Cutscene_1120
+  - first:
+      213: -4374429788605924307
+    second: Ryzer Cutscene_1121
+  - first:
+      213: 4301841254564249917
+    second: Ryzer Cutscene_1122
+  - first:
+      213: 6670267160287407374
+    second: Ryzer Cutscene_1123
+  - first:
+      213: -5390486090286073541
+    second: Ryzer Cutscene_1124
+  - first:
+      213: -8415538780078815893
+    second: Ryzer Cutscene_1125
+  - first:
+      213: -8793308171244994265
+    second: Ryzer Cutscene_1126
+  - first:
+      213: -4314834698199105554
+    second: Ryzer Cutscene_1127
+  - first:
+      213: 4586054733590972062
+    second: Ryzer Cutscene_1128
+  - first:
+      213: 1261155270923162650
+    second: Ryzer Cutscene_1129
+  - first:
+      213: -8268852539224403380
+    second: Ryzer Cutscene_1130
+  - first:
+      213: -5651516816474761861
+    second: Ryzer Cutscene_1131
+  - first:
+      213: -1602844876250122215
+    second: Ryzer Cutscene_1132
+  - first:
+      213: 6546610155724633870
+    second: Ryzer Cutscene_1133
+  - first:
+      213: -2836596045440613677
+    second: Ryzer Cutscene_1134
+  - first:
+      213: 8407676277774010499
+    second: Ryzer Cutscene_1135
+  - first:
+      213: 5870421515504070092
+    second: Ryzer Cutscene_1136
+  - first:
+      213: -8587790464707708290
+    second: Ryzer Cutscene_1137
+  - first:
+      213: -106385963055278031
+    second: Ryzer Cutscene_1138
+  - first:
+      213: -7516251435277722816
+    second: Ryzer Cutscene_1139
+  - first:
+      213: -4925730232977035794
+    second: Ryzer Cutscene_1140
+  - first:
+      213: 4639294546654398996
+    second: Ryzer Cutscene_1141
+  - first:
+      213: -7224455600633664899
+    second: Ryzer Cutscene_1142
+  - first:
+      213: -975692915531892332
+    second: Ryzer Cutscene_1143
+  - first:
+      213: 285457756415848929
+    second: Ryzer Cutscene_1144
+  - first:
+      213: -8310052119362500239
+    second: Ryzer Cutscene_1145
+  - first:
+      213: 1135600102196905885
+    second: Ryzer Cutscene_1146
+  - first:
+      213: 7358195073260845131
+    second: Ryzer Cutscene_1147
+  - first:
+      213: 1287684043983238714
+    second: Ryzer Cutscene_1148
+  - first:
+      213: -7889020277834865162
+    second: Ryzer Cutscene_1149
+  - first:
+      213: -959462389139687842
+    second: Ryzer Cutscene_1150
+  - first:
+      213: -8430844070956417782
+    second: Ryzer Cutscene_1151
+  - first:
+      213: 228951261854095279
+    second: Ryzer Cutscene_1152
+  - first:
+      213: 6035861572747280580
+    second: Ryzer Cutscene_1153
+  - first:
+      213: -8760839183206965577
+    second: Ryzer Cutscene_1154
+  - first:
+      213: -4841484448250120821
+    second: Ryzer Cutscene_1155
+  - first:
+      213: 8709295665812922229
+    second: Ryzer Cutscene_1156
+  - first:
+      213: 3154542178729196801
+    second: Ryzer Cutscene_1157
+  - first:
+      213: -6895110904257041070
+    second: Ryzer Cutscene_1158
+  - first:
+      213: -1875134129092602204
+    second: Ryzer Cutscene_1159
+  - first:
+      213: 3574382344396173631
+    second: Ryzer Cutscene_1160
+  - first:
+      213: 3194294624488646372
+    second: Ryzer Cutscene_1161
+  - first:
+      213: -6447558030813556394
+    second: Ryzer Cutscene_1162
+  - first:
+      213: -5055509558082151354
+    second: Ryzer Cutscene_1163
+  - first:
+      213: 5247274327469388707
+    second: Ryzer Cutscene_1164
+  - first:
+      213: 983563400948203142
+    second: Ryzer Cutscene_1165
+  - first:
+      213: 5508022218920594441
+    second: Ryzer Cutscene_1166
+  - first:
+      213: -5223951249924767411
+    second: Ryzer Cutscene_1167
+  - first:
+      213: -7340939435839796142
+    second: Ryzer Cutscene_1168
+  - first:
+      213: -875345041264487791
+    second: Ryzer Cutscene_1169
+  - first:
+      213: -2739447069306499170
+    second: Ryzer Cutscene_1170
+  - first:
+      213: -5902419474828437884
+    second: Ryzer Cutscene_1171
+  - first:
+      213: -126970669465767623
+    second: Ryzer Cutscene_1172
+  - first:
+      213: -5287737767701094139
+    second: Ryzer Cutscene_1173
+  - first:
+      213: -8185348640078412955
+    second: Ryzer Cutscene_1174
+  - first:
+      213: 2690995848219778923
+    second: Ryzer Cutscene_1175
+  - first:
+      213: 4238764194474180577
+    second: Ryzer Cutscene_1176
+  - first:
+      213: -853071339051494665
+    second: Ryzer Cutscene_1177
+  - first:
+      213: 5983975105594718175
+    second: Ryzer Cutscene_1178
+  - first:
+      213: 7719958754442087883
+    second: Ryzer Cutscene_1179
+  - first:
+      213: 3995105462228889810
+    second: Ryzer Cutscene_1180
+  - first:
+      213: 8938991701837331790
+    second: Ryzer Cutscene_1181
+  - first:
+      213: -3915880872147792176
+    second: Ryzer Cutscene_1182
+  - first:
+      213: 6683221726688321357
+    second: Ryzer Cutscene_1183
+  - first:
+      213: 3842092508796116672
+    second: Ryzer Cutscene_1184
+  - first:
+      213: -6550945215631168604
+    second: Ryzer Cutscene_1185
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ryzer Cutscene_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb498b8133d13e30800000000000000
+      internalID: 4481595313958243309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Cutscene_1
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 3200
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe8c90dc4d270cc0800000000000000
+      internalID: -3744974757194592528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Cutscene_2
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3200
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd21793c92f922430800000000000000
+      internalID: 3756740040904348380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Cutscene_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1599
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6177c8a6760069010800000000000000
+      internalID: 1195143195282667286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Cutscene_4
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1596
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ce33980dedf4c0800000000000000
+      internalID: -4251981852081993836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Cutscene_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1601
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7860cd3be922420800000000000000
+      internalID: 2603818029901318128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Cutscene_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28400752e39e49190800000000000000
+      internalID: -7956478188531481470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Cutscene_7
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 0
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa386cda75e760020800000000000000
+      internalID: 2307670774116680623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryzer Cutscene_8
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 1600
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f156ca0378bcb0010800000000000000
+      internalID: 1156241510848292127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
