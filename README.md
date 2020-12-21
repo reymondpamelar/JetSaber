@@ -1,7 +1,7 @@
 # JetSaber
 A 2D game (made using Unity) that combines the similar movement of the game, Jetpack Joyride, with rhythmically timed enemies and events that correspond to music.
 
-Further explanation of the game can be found under:
+Further explanation (through a Game Design Document) of the game can be found under:
 Assets/Documentation/CS583F2020_2DGDD_Pamelar_Reymond.docx
 
 An executable of the game can be found under: 
